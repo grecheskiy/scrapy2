@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><country_name>Bhutan</country_name><related>Consumer Price Index CPI</related><last>128.17</last><previous>128.26</previous></item>
+<item><country_name>Bhutan</country_name><related>CPI Housing Utilities</related><last>126.92</last><previous>126.64</previous></item>
+<item><country_name>Bhutan</country_name><related>CPI Transportation</related><last>123.5</last><previous>124.15</previous></item>
+<item><country_name>Bhutan</country_name><related>Export Prices</related><last>124.67</last><previous>126.33</previous></item>
+<item><country_name>Bhutan</country_name><related>Export Prices YoY</related><last>-6.18</last><previous>7.29</previous></item>
+<item><country_name>Bhutan</country_name><related>Food Inflation</related><last>5.83</last><previous>6.21</previous></item>
+<item><country_name>Bhutan</country_name><related>Import Prices</related><last>144.24</last><previous>144.8</previous></item>
+<item><country_name>Bhutan</country_name><related>Import Prices YoY</related><last>12.68</last><previous>18.54</previous></item>
+<item><country_name>Bhutan</country_name><related>Inflation Rate</related><last>4.32</last><previous>4.99</previous></item>
+<item><country_name>Bhutan</country_name><related>Inflation Rate MoM</related><last>-0.07</last><previous>0.41</previous></item>
+<item><country_name>Bahrain</country_name><related>Consumer Price Index CPI</related><last>101.2</last><previous>100.6</previous></item>
+<item><country_name>Bahrain</country_name><related>CPI Housing Utilities</related><last>91.4</last><previous>89.2</previous></item>
+<item><country_name>Bahrain</country_name><related>CPI Transportation</related><last>107.4</last><previous>107.9</previous></item>
+<item><country_name>Bahrain</country_name><related>Food Inflation</related><last>6.8</last><previous>4.2</previous></item>
+<item><country_name>Bahrain</country_name><related>GDP Deflator</related><last>116.19</last><previous>105.09</previous></item>
+<item><country_name>Bahrain</country_name><related>Inflation Rate YoY</related><last>0.8</last><previous>-0.3</previous></item>
+<item><country_name>Bahrain</country_name><related>Inflation Rate MoM</related><last>0.6</last><previous>-0.2</previous></item>
+<item><country_name>Bangladesh</country_name><related>Consumer Price Index CPI</related><last>120.09</last><previous>119.6</previous></item>
+<item><country_name>Bangladesh</country_name><related>CPI Transportation</related><last>119.31</last><previous>119.21</previous></item>
+<item><country_name>Bangladesh</country_name><related>Food Inflation</related><last>9.44</last><previous>9.56</previous></item>
+<item><country_name>Bangladesh</country_name><related>GDP Deflator</related><last>137.95</last><previous>130.84</previous></item>
+<item><country_name>Bangladesh</country_name><related>Inflation Rate YoY</related><last>9.67</last><previous>9.86</previous></item>
+<item><country_name>Bangladesh</country_name><related>Inflation Rate MoM</related><last>0.41</last><previous>1.01</previous></item>
+<item><country_name>Barbados</country_name><related>Consumer Price Index CPI</related><last>114.5</last><previous>114.2</previous></item>
+<item><country_name>Barbados</country_name><related>CPI Housing Utilities</related><last>111.8</last><previous>111.3</previous></item>
+<item><country_name>Barbados</country_name><related>CPI Transportation</related><last>122.1</last><previous>122.2</previous></item>
+<item><country_name>Barbados</country_name><related>Food Inflation</related><last>9.2</last><previous>9.0</previous></item>
+<item><country_name>Barbados</country_name><related>Inflation Rate</related><last>5.5</last><previous>4.5</previous></item>
+<item><country_name>Belgium</country_name><related>Consumer Price Index CPI</related><last>131.01</last><previous>130.08</previous></item>
+<item><country_name>Belgium</country_name><related>CPI Housing Utilities</related><last>135.19</last><previous>130.05</previous></item>
+<item><country_name>Belgium</country_name><related>CPI Transportation</related><last>130.87</last><previous>129.43</previous></item>
+<item><country_name>Belgium</country_name><related>Food Inflation</related><last>4.86</last><previous>6.34</previous></item>
+<item><country_name>Belgium</country_name><related>Inflation Rate YoY</related><last>3.2</last><previous>1.75</previous></item>
+<item><country_name>Belgium</country_name><related>Inflation Rate MoM</related><last>0.71</last><previous>0.49</previous></item>
+<item><country_name>Belgium</country_name><related>Producer Prices</related><last>161.9</last><previous>163.0</previous></item>
+<item><country_name>Belgium</country_name><related>PPI YoY</related><last>-11.63</last><previous>-12.3</previous></item>
+<item><country_name>Bermuda</country_name><related>Consumer Price Index CPI</related><last>116.1</last><previous>115.5</previous></item>
+<item><country_name>Bermuda</country_name><related>Food Inflation</related><last>4.4</last><previous>5.6</previous></item>
+<item><country_name>Bermuda</country_name><related>Inflation Rate</related><last>2.4</last><previous>2.4</previous></item>
+<item><country_name>Azerbaijan</country_name><related>Consumer Price Index CPI</related><last>214.2</last><previous>213.1</previous></item>
+<item><country_name>Azerbaijan</country_name><related>Core Inflation Rate</related><last>2.0</last><previous>2.3</previous></item>
+<item><country_name>Azerbaijan</country_name><related>Food Inflation</related><last>0.2</last><previous>0.7</previous></item>
+<item><country_name>Azerbaijan</country_name><related>Inflation Rate</related><last>1.3</last><previous>1.7</previous></item>
+<item><country_name>Azerbaijan</country_name><related>Producer Price Inflation MoM</related><last>1.8</last><previous>-4.2</previous></item>
+<item><country_name>Azerbaijan</country_name><related>Producer Prices</related><last>89.0</last><previous>184.3</previous></item>
+<item><country_name>Azerbaijan</country_name><related>Producer Prices Change</related><last>-0.3</last><previous>-11.0</previous></item>
+<item><country_name>Belize</country_name><related>Consumer Price Index CPI</related><last>117.25</last><previous>117.0</previous></item>
+<item><country_name>Belize</country_name><related>CPI Housing Utilities</related><last>104.9</last><previous>104.7</previous></item>
+<item><country_name>Belize</country_name><related>CPI Transportation</related><last>127.06</last><previous>129.3</previous></item>
+<item><country_name>Belize</country_name><related>Food Inflation</related><last>8.22</last><previous>8.2</previous></item>
+<item><country_name>Belize</country_name><related>Inflation Rate</related><last>4.3</last><previous>3.7</previous></item>
+<item><country_name>Belize</country_name><related>Inflation Rate MoM</related><last>-0.6</last><previous>0.4</previous></item>
+<item><country_name>Australia</country_name><related>CPI</related><last>136.1</last><previous>135.3</previous></item>
+<item><country_name>Australia</country_name><related>Core Consumer Prices</related><last>134.71</last><previous>133.67</previous></item>
+<item><country_name>Australia</country_name><related>RBA Trimmed Mean CPI YoY</related><last>4.2</last><previous>5.2</previous></item>
+<item><country_name>Australia</country_name><related>CPI Housing Utilities</related><last>147.5</last><previous>146.0</previous></item>
+<item><country_name>Australia</country_name><related>CPI Transportation</related><last>130.5</last><previous>130.7</previous></item>
+<item><country_name>Australia</country_name><related>Export Prices</related><last>173.1</last><previous>163.9</previous></item>
+<item><country_name>Australia</country_name><related>Food Inflation</related><last>4.5</last><previous>4.8</previous></item>
+<item><country_name>Australia</country_name><related>GDP Deflator</related><last>109.13</last><previous>107.85</previous></item>
+<item><country_name>Australia</country_name><related>Import Prices</related><last>134.1</last><previous>132.6</previous></item>
+<item><country_name>Australia</country_name><related>Inflation Rate YoY</related><last>4.1</last><previous>5.4</previous></item>
+<item><country_name>Australia</country_name><related>Inflation Rate</related><last>0.6</last><previous>1.2</previous></item>
+<item><country_name>Australia</country_name><related>Monthly CPI Indicator</related><last>3.4</last><previous>3.4</previous></item>
+<item><country_name>Australia</country_name><related>Producer Prices</related><last>128.2</last><previous>127.0</previous></item>
+<item><country_name>Australia</country_name><related>PPI YoY</related><last>4.1</last><previous>3.8</previous></item>
+<item><country_name>Austria</country_name><related>CPI</related><last>122.4</last><previous>122.6</previous></item>
+<item><country_name>Austria</country_name><related>CPI Housing Utilities</related><last>133.5</last><previous>132.0</previous></item>
+<item><country_name>Austria</country_name><related>CPI Transportation</related><last>125.3</last><previous>124.9</previous></item>
+<item><country_name>Austria</country_name><related>Food Inflation</related><last>5.43</last><previous>5.97</previous></item>
+<item><country_name>Austria</country_name><related>GDP Deflator</related><last>128.63</last><previous>126.51</previous></item>
+<item><country_name>Austria</country_name><related>Harmonised Consumer Prices</related><last>132.6</last><previous>133.1</previous></item>
+<item><country_name>Austria</country_name><related>Inflation Rate YoY</related><last>4.3</last><previous>4.5</previous></item>
+<item><country_name>Austria</country_name><related>Inflation Rate MoM</related><last>0.7</last><previous>-0.2</previous></item>
+<item><country_name>Austria</country_name><related>Producer Prices</related><last>118.0</last><previous>119.2</previous></item>
+<item><country_name>Austria</country_name><related>PPI YoY</related><last>-7.2</last><previous>-3.0</previous></item>
+<item><country_name>Austria</country_name><related>Wholesale Prices NSA MoM</related><last>131.3</last><previous>129.7</previous></item>
+<item><country_name>Aruba</country_name><related>Consumer Price Index CPI</related><last>108.31</last><previous>108.79</previous></item>
+<item><country_name>Aruba</country_name><related>CPI Housing Utilities</related><last>111.72</last><previous>111.36</previous></item>
+<item><country_name>Aruba</country_name><related>CPI Transportation</related><last>106.52</last><previous>108.86</previous></item>
+<item><country_name>Aruba</country_name><related>Food Inflation</related><last>2.9</last><previous>1.5</previous></item>
+<item><country_name>Aruba</country_name><related>Inflation Rate</related><last>1.5</last><previous>2.3</previous></item>
+<item><country_name>Aruba</country_name><related>Inflation Rate MoM</related><last>-0.4</last><previous>0.4</previous></item>
+<item><country_name>Argentina</country_name><related>Consumer Price Index CPI</related><last>4825.79</last><previous>4261.53</previous></item>
+<item><country_name>Argentina</country_name><related>Core Consumer Prices</related><last>5129.6</last><previous>4568.16</previous></item>
+<item><country_name>Argentina</country_name><related>Core Inflation Rate</related><last>291.9</last><previous>275.9</previous></item>
+<item><country_name>Argentina</country_name><related>CPI Housing Utilities</related><last>2935.59</last><previous>2441.85</previous></item>
+<item><country_name>Argentina</country_name><related>CPI Transportation</related><last>5243.42</last><previous>4311.59</previous></item>
+<item><country_name>Argentina</country_name><related>Export Prices</related><last>186.5</last><previous>187.5</previous></item>
+<item><country_name>Argentina</country_name><related>Food Inflation</related><last>303.82</last><previous>296.18</previous></item>
+<item><country_name>Argentina</country_name><related>GDP Deflator</related><last>28003.8</last><previous>21563.4</previous></item>
+<item><country_name>Argentina</country_name><related>Import Prices</related><last>132.6</last><previous>137.0</previous></item>
+<item><country_name>Argentina</country_name><related>Inflation Rate YoY</related><last>276.2</last><previous>254.2</previous></item>
+<item><country_name>Argentina</country_name><related>Inflation Rate MoM</related><last>13.2</last><previous>20.6</previous></item>
+<item><country_name>Argentina</country_name><related>Producer Prices</related><last>7734.24</last><previous>6585.56</previous></item>
+<item><country_name>Argentina</country_name><related>Producer Prices Change</related><last>297.0</last><previous>260.3</previous></item>
+<item><country_name>Bahamas</country_name><related>Consumer Price Index CPI</related><last>122.3</last><previous>122.5</previous></item>
+<item><country_name>Bahamas</country_name><related>Inflation Rate</related><last>1.96</last><previous>2.03</previous></item>
+<item><country_name>Bahamas</country_name><related>Inflation Rate MoM</related><last>-0.2</last><previous>0.1</previous></item>
+<item><country_name>Zambia</country_name><related>CPI Housing Utilities</related><last>417.09</last><previous>413.16</previous></item>
+<item><country_name>Zambia</country_name><related>CPI Transportation</related><last>594.2</last><previous>566.41</previous></item>
+<item><country_name>Zambia</country_name><related>Inflation Rate YoY</related><last>13.5</last><previous>13.2</previous></item>
+<item><country_name>Zambia</country_name><related>Inflation Rate MoM</related><last>2.2</last><previous>2.1</previous></item>
+<item><country_name>Benin</country_name><related>Rent Inflation</related><last>0.0</last><previous>0.1</previous></item>
+<item><country_name>Benin</country_name><related>Consumer Price Index CPI</related><last>112.1</last><previous>110.5</previous></item>
+<item><country_name>Benin</country_name><related>CPI Housing Utilities</related><last>113.8</last><previous>111.0</previous></item>
+<item><country_name>Benin</country_name><related>CPI Transportation</related><last>127.4</last><previous>127.6</previous></item>
+<item><country_name>Benin</country_name><related>Food Inflation</related><last>-2.8</last><previous>-5.5</previous></item>
+<item><country_name>Benin</country_name><related>Inflation Rate</related><last>0.2</last><previous>-1.2</previous></item>
+<item><country_name>Benin</country_name><related>Inflation Rate MoM</related><last>1.4</last><previous>-0.6</previous></item>
+<item><country_name>Uzbekistan</country_name><related>Core Inflation Rate</related><last>8.1</last><previous>8.3</previous></item>
+<item><country_name>Uzbekistan</country_name><related>Food Inflation</related><last>9.3</last><previous>9.7</previous></item>
+<item><country_name>Uzbekistan</country_name><related>Inflation Rate</related><last>8.35</last><previous>8.6</previous></item>
+<item><country_name>Uzbekistan</country_name><related>Inflation Rate MoM</related><last>0.3</last><previous>0.64</previous></item>
+<item><country_name>Vanuatu</country_name><related>Consumer Price Index CPI</related><last>209.0</last><previous>202.9</previous></item>
+<item><country_name>Vanuatu</country_name><related>Inflation Rate</related><last>12.1</last><previous>14.4</previous></item>
+<item><country_name>Vanuatu</country_name><related>Inflation Rate MoM</related><last>3.0</last><previous>3.6</previous></item>
+<item><country_name>Venezuela</country_name><related>Consumer Price Index CPI</related><last>25684975.43</last><previous>25379624.72</previous></item>
+<item><country_name>Venezuela</country_name><related>CPI Transportation</related><last>26949912607.57</last><previous>26612655441.16</previous></item>
+<item><country_name>Venezuela</country_name><related>Food Inflation</related><last>90.5</last><previous>172.6</previous></item>
+<item><country_name>Venezuela</country_name><related>Inflation Rate</related><last>75.9</last><previous>107.4</previous></item>
+<item><country_name>Venezuela</country_name><related>Inflation Rate MoM</related><last>1.7</last><previous>2.4</previous></item>
+<item><country_name>Belarus</country_name><related>Core Consumer Prices</related><last>100.5</last><previous>100.5</previous></item>
+<item><country_name>Belarus</country_name><related>Food Inflation</related><last>6.4</last><previous>6.9</previous></item>
+<item><country_name>Belarus</country_name><related>Inflation Rate YoY</related><last>5.6</last><previous>5.9</previous></item>
+<item><country_name>Belarus</country_name><related>Inflation Rate MoM</related><last>0.9</last><previous>0.8</previous></item>
+<item><country_name>Belarus</country_name><related>Producer Prices</related><last>23699.2</last><previous>23479.7</previous></item>
+<item><country_name>Belarus</country_name><related>Producer Prices Change</related><last>6.2</last><previous>5.1</previous></item>
+<item><country_name>Armenia</country_name><related>Consumer Price Index CPI</related><last>157.55</last><previous>155.74</previous></item>
+<item><country_name>Armenia</country_name><related>Export Prices</related><last>105.5</last><previous>95.4</previous></item>
+<item><country_name>Armenia</country_name><related>Food Inflation</related><last>-7.4</last><previous>-5.8</previous></item>
+<item><country_name>Armenia</country_name><related>Import Prices</related><last>107.8</last><previous>100.7</previous></item>
+<item><country_name>Armenia</country_name><related>Inflation Rate YoY</related><last>-1.7</last><previous>-0.9</previous></item>
+<item><country_name>Armenia</country_name><related>Inflation Rate MoM</related><last>-0.7</last><previous>1.16</previous></item>
+<item><country_name>Armenia</country_name><related>Producer Prices</related><last>118.4</last><previous>116.9</previous></item>
+<item><country_name>Armenia</country_name><related>PPI YoY</related><last>-0.3</last><previous>-0.1</previous></item>
+<item><country_name>Uruguay</country_name><related>Consumer Price Index CPI</related><last>106.83</last><previous>106.15</previous></item>
+<item><country_name>Uruguay</country_name><related>CPI Housing Utilities</related><last>108.39</last><previous>107.99</previous></item>
+<item><country_name>Uruguay</country_name><related>CPI Transportation</related><last>100.14</last><previous>99.13</previous></item>
+<item><country_name>Uruguay</country_name><related>Inflation Rate YoY</related><last>4.71</last><previous>5.09</previous></item>
+<item><country_name>Uruguay</country_name><related>Inflation Rate MoM</related><last>0.64</last><previous>1.53</previous></item>
+<item><country_name>Uruguay</country_name><related>Producer Prices</related><last>269.21</last><previous>272.14</previous></item>
+<item><country_name>Uruguay</country_name><related>Producer Prices Change</related><last>-2.62</last><previous>-0.49</previous></item>
+<item><country_name>United States</country_name><related>Core Inflation Rate YoY</related><last>3.8</last><previous>3.9</previous></item>
+<item><country_name>United States</country_name><related>Energy Inflation</related><last>-1.9</last><previous>-4.56</previous></item>
+<item><country_name>United States</country_name><related>Food Inflation</related><last>2.2</last><previous>2.6</previous></item>
+<item><country_name>United States</country_name><related>Rent Inflation</related><last>5.74</last><previous>6.04</previous></item>
+<item><country_name>United States</country_name><related>Services Inflation</related><last>4.95</last><previous>4.94</previous></item>
+<item><country_name>United States</country_name><related>CPI</related><last>310.33</last><previous>308.42</previous></item>
+<item><country_name>United States</country_name><related>Core Consumer Prices</related><last>315.57</last><previous>314.44</previous></item>
+<item><country_name>United States</country_name><related>CPI Median</related><last>4.58</last><previous>4.85</previous></item>
+<item><country_name>United States</country_name><related>CPI s.a</related><last>311.05</last><previous>309.69</previous></item>
+<item><country_name>United States</country_name><related>CPI Trimmed-Mean</related><last>3.51</last><previous>3.67</previous></item>
+<item><country_name>United States</country_name><related>Export Prices</related><last>149.0</last><previous>147.8</previous></item>
+<item><country_name>United States</country_name><related>Import Prices</related><last>139.9</last><previous>139.5</previous></item>
+<item><country_name>United States</country_name><related>Consumer Inflation Expectations</related><last>3.0</last><previous>3.0</previous></item>
+<item><country_name>United States</country_name><related>Inflation Rate YoY</related><last>3.2</last><previous>3.1</previous></item>
+<item><country_name>United States</country_name><related>Inflation Rate MoM</related><last>0.4</last><previous>0.3</previous></item>
+<item><country_name>United States</country_name><related>PCE Price Index</related><last>121.87</last><previous>121.45</previous></item>
+<item><country_name>United States</country_name><related>PPI YoY</related><last>1.6</last><previous>1.0</previous></item>
+<item><country_name>Ukraine</country_name><related>Food Inflation</related><last>2.6</last><previous>3.7</previous></item>
+<item><country_name>Ukraine</country_name><related>Consumer Price Index CPI</related><last>440.1</last><previous>438.8</previous></item>
+<item><country_name>Ukraine</country_name><related>Core Consumer Prices</related><last>104.5</last><previous>104.6</previous></item>
+<item><country_name>Ukraine</country_name><related>Core Inflation Rate</related><last>4.5</last><previous>4.6</previous></item>
+<item><country_name>Ukraine</country_name><related>CPI Transportation</related><last>98.7</last><previous>98.5</previous></item>
+<item><country_name>Ukraine</country_name><related>Export Prices</related><last>87.0</last><previous>89.0</previous></item>
+<item><country_name>Ukraine</country_name><related>Import Prices</related><last>108.7</last><previous>101.9</previous></item>
+<item><country_name>Ukraine</country_name><related>Inflation Rate YoY</related><last>4.3</last><previous>4.7</previous></item>
+<item><country_name>Ukraine</country_name><related>Inflation Rate MoM</related><last>0.3</last><previous>0.4</previous></item>
+<item><country_name>Uganda</country_name><related>Consumer Price Index CPI</related><last>130.4</last><previous>129.7</previous></item>
+<item><country_name>Uganda</country_name><related>Core Consumer Prices</related><last>129.87</last><previous>128.69</previous></item>
+<item><country_name>Uganda</country_name><related>Core Inflation Rate</related><last>3.4</last><previous>2.4</previous></item>
+<item><country_name>Uganda</country_name><related>CPI Housing Utilities</related><last>131.91</last><previous>123.51</previous></item>
+<item><country_name>Uganda</country_name><related>CPI Transportation</related><last>127.3</last><previous>151.74</previous></item>
+<item><country_name>Uganda</country_name><related>Food Inflation</related><last>0.5</last><previous>0.0</previous></item>
+<item><country_name>Uganda</country_name><related>Inflation Rate YoY</related><last>3.4</last><previous>2.8</previous></item>
+<item><country_name>Uganda</country_name><related>Inflation Rate MoM</related><last>0.5</last><previous>0.0</previous></item>
+<item><country_name>Uganda</country_name><related>Producer Prices</related><last>234.0</last><previous>233.8</previous></item>
+<item><country_name>Uganda</country_name><related>PPI YoY</related><last>1.6</last><previous>5.3</previous></item>
+<item><country_name>Zimbabwe</country_name><related>Consumer Price Index CPI</related><last>127.17</last><previous>120.67</previous></item>
+<item><country_name>Zimbabwe</country_name><related>CPI Housing Utilities</related><last>133.72</last><previous>127.54</previous></item>
+<item><country_name>Zimbabwe</country_name><related>CPI Transportation</related><last>120.88</last><previous>117.97</previous></item>
+<item><country_name>Zimbabwe</country_name><related>Food Inflation</related><last>84.4</last><previous>60.3</previous></item>
+<item><country_name>Zimbabwe</country_name><related>Inflation Rate YoY</related><last>47.6</last><previous>34.8</previous></item>
+<item><country_name>Zimbabwe</country_name><related>Inflation Rate MoM</related><last>5.4</last><previous>6.6</previous></item>
+<item><country_name>Trinidad and Tobago</country_name><related>Consumer Price Index CPI</related><last>124.0</last><previous>124.1</previous></item>
+<item><country_name>Trinidad and Tobago</country_name><related>CPI Transportation</related><last>126.8</last><previous>127.2</previous></item>
+<item><country_name>Trinidad and Tobago</country_name><related>Food Inflation</related><last>-1.93</last><previous>-1.14</previous></item>
+<item><country_name>Trinidad and Tobago</country_name><related>Inflation Rate</related><last>0.3</last><previous>0.7</previous></item>
+<item><country_name>Trinidad and Tobago</country_name><related>Inflation Rate MoM</related><last>-0.1</last><previous>0.1</previous></item>
+<item><country_name>Trinidad and Tobago</country_name><related>Producer Prices</related><last>649.8</last><previous>645.4</previous></item>
+<item><country_name>United Kingdom</country_name><related>Energy Inflation</related><last>-14.9</last><previous>-17.3</previous></item>
+<item><country_name>United Kingdom</country_name><related>Food Inflation</related><last>6.9</last><previous>8.0</previous></item>
+<item><country_name>United Kingdom</country_name><related>Rent Inflation</related><last>6.5</last><previous>6.3</previous></item>
+<item><country_name>United Kingdom</country_name><related>Services Inflation</related><last>6.5</last><previous>6.4</previous></item>
+<item><country_name>United Kingdom</country_name><related>Consumer Price Index CPI</related><last>131.48</last><previous>132.24</previous></item>
+<item><country_name>United Kingdom</country_name><related>Core Consumer Prices</related><last>127.11</last><previous>128.32</previous></item>
+<item><country_name>United Kingdom</country_name><related>Core Inflation Rate YoY</related><last>5.1</last><previous>5.1</previous></item>
+<item><country_name>United Kingdom</country_name><related>Core Producer Prices</related><last>134.5</last><previous>134.2</previous></item>
+<item><country_name>United Kingdom</country_name><related>CPI Housing Utilities</related><last>139.62</last><previous>137.13</previous></item>
+<item><country_name>United Kingdom</country_name><related>CPI Transportation</related><last>130.91</last><previous>134.66</previous></item>
+<item><country_name>United Kingdom</country_name><related>GDP Deflator</related><last>119.63</last><previous>119.44</previous></item>
+<item><country_name>United Kingdom</country_name><related>Harmonised Consumer Prices</related><last>131.48</last><previous>132.24</previous></item>
+<item><country_name>United Kingdom</country_name><related>Inflation Rate YoY</related><last>4.0</last><previous>4.0</previous></item>
+<item><country_name>United Kingdom</country_name><related>Inflation Rate MoM</related><last>-0.6</last><previous>0.4</previous></item>
+<item><country_name>United Kingdom</country_name><related>PPI Output MoM</related><last>-0.2</last><previous>-0.5</previous></item>
+<item><country_name>United Kingdom</country_name><related>Producer Prices</related><last>136.0</last><previous>136.2</previous></item>
+<item><country_name>United Kingdom</country_name><related>PPI Output YoY</related><last>-0.6</last><previous>0.1</previous></item>
+<item><country_name>United Kingdom</country_name><related>Retail Price Index YoY</related><last>4.9</last><previous>5.2</previous></item>
+<item><country_name>Tunisia</country_name><related>Rent Inflation</related><last>5.3</last><previous>5.3</previous></item>
+<item><country_name>Tunisia</country_name><related>Consumer Price Index CPI</related><last>172.1</last><previous>171.7</previous></item>
+<item><country_name>Tunisia</country_name><related>CPI Housing Utilities</related><last>153.1</last><previous>152.7</previous></item>
+<item><country_name>Tunisia</country_name><related>CPI Transportation</related><last>161.6</last><previous>160.9</previous></item>
+<item><country_name>Tunisia</country_name><related>Export Prices</related><last>178.0</last><previous>176.5</previous></item>
+<item><country_name>Tunisia</country_name><related>Food Inflation</related><last>10.2</last><previous>12.1</previous></item>
+<item><country_name>Tunisia</country_name><related>Import Prices</related><last>184.0</last><previous>176.9</previous></item>
+<item><country_name>Tunisia</country_name><related>Inflation Rate YoY</related><last>7.5</last><previous>7.8</previous></item>
+<item><country_name>Tunisia</country_name><related>Inflation Rate MoM</related><last>0.2</last><previous>0.6</previous></item>
+<item><country_name>Tunisia</country_name><related>PPI YoY</related><last>1.47</last><previous>1.8</previous></item>
+<item><country_name>Togo</country_name><related>CPI Housing Utilities</related><last>117.1</last><previous>115.6</previous></item>
+<item><country_name>Togo</country_name><related>CPI Transportation</related><last>114.1</last><previous>114.0</previous></item>
+<item><country_name>Togo</country_name><related>Food Inflation</related><last>4.4</last><previous>0.4</previous></item>
+<item><country_name>Togo</country_name><related>Inflation Rate</related><last>3.5</last><previous>2.0</previous></item>
+<item><country_name>Turkmenistan</country_name><related>Inflation Rate</related><last>5.9</last><previous>11.48</previous></item>
+<item><country_name>Tanzania</country_name><related>Consumer Price Index CPI</related><last>114.65</last><previous>114.09</previous></item>
+<item><country_name>Tanzania</country_name><related>Core Consumer Prices</related><last>112.46</last><previous>111.93</previous></item>
+<item><country_name>Tanzania</country_name><related>Core Inflation Rate</related><last>3.7</last><previous>3.2</previous></item>
+<item><country_name>Tanzania</country_name><related>CPI Housing Utilities</related><last>113.44</last><previous>113.31</previous></item>
+<item><country_name>Tanzania</country_name><related>CPI Transportation</related><last>115.04</last><previous>115.62</previous></item>
+<item><country_name>Tanzania</country_name><related>Export Prices</related><last>104.7</last><previous>101.7</previous></item>
+<item><country_name>Tanzania</country_name><related>Food Inflation</related><last>1.8</last><previous>1.5</previous></item>
+<item><country_name>Tanzania</country_name><related>Import Prices</related><last>100.7</last><previous>99.1</previous></item>
+<item><country_name>Tanzania</country_name><related>Inflation Rate YoY</related><last>3.0</last><previous>3.0</previous></item>
+<item><country_name>Tanzania</country_name><related>Inflation Rate MoM</related><last>0.5</last><previous>0.7</previous></item>
+<item><country_name>Thailand</country_name><related>Core Inflation Rate YoY</related><last>0.43</last><previous>0.52</previous></item>
+<item><country_name>Thailand</country_name><related>CPI Transportation</related><last>110.44</last><previous>108.78</previous></item>
+<item><country_name>Thailand</country_name><related>Food Inflation</related><last>0.97</last><previous>-1.06</previous></item>
+<item><country_name>Thailand</country_name><related>Inflation Rate YoY</related><last>-0.77</last><previous>-1.11</previous></item>
+<item><country_name>Thailand</country_name><related>Inflation Rate MoM</related><last>0.22</last><previous>0.02</previous></item>
+<item><country_name>Thailand</country_name><related>Producer Prices</related><last>111.6</last><previous>110.3</previous></item>
+<item><country_name>Thailand</country_name><related>Producer Prices Change</related><last>1.18</last><previous>0.27</previous></item>
+<item><country_name>Syria</country_name><related>Inflation Rate</related><last>150.0</last><previous>111.0</previous></item>
+<item><country_name>Switzerland</country_name><related>Food Inflation</related><last>0.8</last><previous>2.3</previous></item>
+<item><country_name>Switzerland</country_name><related>CPI</related><last>107.06</last><previous>106.39</previous></item>
+<item><country_name>Switzerland</country_name><related>Core Consumer Prices</related><last>104.76</last><previous>104.05</previous></item>
+<item><country_name>Switzerland</country_name><related>Core Inflation Rate</related><last>1.1</last><previous>1.2</previous></item>
+<item><country_name>Switzerland</country_name><related>CPI Housing Utilities</related><last>112.39</last><previous>111.61</previous></item>
+<item><country_name>Switzerland</country_name><related>CPI Transportation</related><last>113.2</last><previous>111.35</previous></item>
+<item><country_name>Switzerland</country_name><related>Export Prices</related><last>100.4</last><previous>100.4</previous></item>
+<item><country_name>Switzerland</country_name><related>Inflation Rate YoY</related><last>1.2</last><previous>1.3</previous></item>
+<item><country_name>Switzerland</country_name><related>Inflation Rate MoM</related><last>0.6</last><previous>0.2</previous></item>
+<item><country_name>Switzerland</country_name><related>Producer Prices</related><last>106.83</last><previous>106.69</previous></item>
+<item><country_name>Switzerland</country_name><related>Producer &amp; Import Prices YoY</related><last>-2.0</last><previous>-2.3</previous></item>
+<item><country_name>United Arab Emirates</country_name><related>Food Inflation</related><last>3.7</last><previous>4.21</previous></item>
+<item><country_name>United Arab Emirates</country_name><related>Inflation Rate YoY</related><last>3.6</last><previous>3.27</previous></item>
+<item><country_name>United Arab Emirates</country_name><related>Inflation Rate MoM</related><last>0.44</last><previous>0.12</previous></item>
+<item><country_name>Swaziland</country_name><related>Consumer Price Index CPI</related><last>116.0</last><previous>116.1</previous></item>
+<item><country_name>Swaziland</country_name><related>CPI Transportation</related><last>1.3</last><previous>-0.5</previous></item>
+<item><country_name>Swaziland</country_name><related>Food Inflation</related><last>5.6</last><previous>7.1</previous></item>
+<item><country_name>Swaziland</country_name><related>Inflation Rate</related><last>4.5</last><previous>4.3</previous></item>
+<item><country_name>Tajikistan</country_name><related>Food Inflation</related><last>2.9</last><previous>3.4</previous></item>
+<item><country_name>Tajikistan</country_name><related>Inflation Rate</related><last>3.8</last><previous>3.8</previous></item>
+<item><country_name>Tajikistan</country_name><related>Inflation Rate MoM</related><last>0.5</last><previous>0.4</previous></item>
+<item><country_name>Tajikistan</country_name><related>Producer Prices Change</related><last>2.7</last><previous>2.5</previous></item>
+<item><country_name>Sri Lanka</country_name><related>Consumer Price Index CPI</related><last>200.6</last><previous>200.7</previous></item>
+<item><country_name>Sri Lanka</country_name><related>Core Consumer Prices</related><last>193.9</last><previous>189.7</previous></item>
+<item><country_name>Sri Lanka</country_name><related>Core Inflation Rate</related><last>2.2</last><previous>0.6</previous></item>
+<item><country_name>Sri Lanka</country_name><related>CPI Housing Utilities</related><last>158.7</last><previous>157.8</previous></item>
+<item><country_name>Sri Lanka</country_name><related>CPI Transportation</related><last>239.5</last><previous>234.9</previous></item>
+<item><country_name>Sri Lanka</country_name><related>Export Prices</related><last>191.4</last><previous>241.27</previous></item>
+<item><country_name>Sri Lanka</country_name><related>Food Inflation</related><last>3.5</last><previous>3.3</previous></item>
+<item><country_name>Sri Lanka</country_name><related>GDP Deflator</related><last>200.93</last><previous>134.27</previous></item>
+<item><country_name>Sri Lanka</country_name><related>Import Prices</related><last>226.76</last><previous>272.63</previous></item>
+<item><country_name>Sri Lanka</country_name><related>Inflation Rate YoY</related><last>5.9</last><previous>6.4</previous></item>
+<item><country_name>Sri Lanka</country_name><related>Inflation Rate MoM</related><last>2.9</last><previous>0.89</previous></item>
+<item><country_name>Sri Lanka</country_name><related>Producer Prices</related><last>245.7</last><previous>240.9</previous></item>
+<item><country_name>Sri Lanka</country_name><related>PPI YoY</related><last>-3.9</last><previous>-7.4</previous></item>
+<item><country_name>Taiwan</country_name><related>Consumer Price Index CPI</related><last>107.26</last><previous>106.59</previous></item>
+<item><country_name>Taiwan</country_name><related>Core Inflation Rate</related><last>2.9</last><previous>1.65</previous></item>
+<item><country_name>Taiwan</country_name><related>CPI Housing Utilities</related><last>105.31</last><previous>105.04</previous></item>
+<item><country_name>Taiwan</country_name><related>CPI Transportation</related><last>104.84</last><previous>104.39</previous></item>
+<item><country_name>Taiwan</country_name><related>Food Inflation</related><last>4.49</last><previous>4.11</previous></item>
+<item><country_name>Taiwan</country_name><related>Inflation Rate YoY</related><last>3.08</last><previous>1.8</previous></item>
+<item><country_name>Taiwan</country_name><related>Inflation Rate MoM</related><last>0.15</last><previous>0.21</previous></item>
+<item><country_name>Taiwan</country_name><related>Producer Prices Change</related><last>-0.46</last><previous>-0.42</previous></item>
+<item><country_name>Vietnam</country_name><related>Consumer Price Index CPI</related><last>115.33</last><previous>114.14</previous></item>
+<item><country_name>Vietnam</country_name><related>Core Inflation Rate</related><last>2.96</last><previous>2.72</previous></item>
+<item><country_name>Vietnam</country_name><related>Core Inflation Rate MoM</related><last>0.49</last><previous>0.21</previous></item>
+<item><country_name>Vietnam</country_name><related>CPI Transportation</related><last>112.49</last><previous>109.12</previous></item>
+<item><country_name>Vietnam</country_name><related>Export Prices</related><last>95.6</last><previous>110.5</previous></item>
+<item><country_name>Vietnam</country_name><related>Food Inflation</related><last>4.23</last><previous>2.31</previous></item>
+<item><country_name>Vietnam</country_name><related>GDP Deflator</related><last>171.54</last><previous>165.17</previous></item>
+<item><country_name>Vietnam</country_name><related>Import Prices</related><last>91.1</last><previous>107.8</previous></item>
+<item><country_name>Vietnam</country_name><related>Inflation Rate YoY</related><last>3.98</last><previous>3.37</previous></item>
+<item><country_name>Vietnam</country_name><related>Inflation Rate MoM</related><last>1.04</last><previous>0.31</previous></item>
+<item><country_name>Vietnam</country_name><related>Producer Price Inflation MoM</related><last>0.98</last><previous>-0.35</previous></item>
+<item><country_name>Vietnam</country_name><related>Producer Prices</related><last>99.47</last><previous>97.51</previous></item>
+<item><country_name>Spain</country_name><related>CPI</related><last>113.81</last><previous>113.4</previous></item>
+<item><country_name>Spain</country_name><related>Core Consumer Prices</related><last>113.21</last><previous>112.61</previous></item>
+<item><country_name>Spain</country_name><related>Core Inflation Rate YoY Prel</related><last>3.5</last><previous>3.6</previous></item>
+<item><country_name>Spain</country_name><related>CPI Housing Utilities</related><last>103.43</last><previous>104.75</previous></item>
+<item><country_name>Spain</country_name><related>CPI Transportation</related><last>113.06</last><previous>111.27</previous></item>
+<item><country_name>Spain</country_name><related>Food Inflation</related><last>5.34</last><previous>7.45</previous></item>
+<item><country_name>Spain</country_name><related>Harmonised Consumer Prices</related><last>121.29</last><previous>120.82</previous></item>
+<item><country_name>Spain</country_name><related>Inflation Rate YoY Prel</related><last>2.8</last><previous>3.4</previous></item>
+<item><country_name>Spain</country_name><related>Inflation Rate MoM Prel</related><last>0.3</last><previous>0.1</previous></item>
+<item><country_name>Spain</country_name><related>Producer Prices</related><last>126.4</last><previous>126.1</previous></item>
+<item><country_name>Spain</country_name><related>PPI YoY</related><last>-3.8</last><previous>-6.3</previous></item>
+<item><country_name>Sweden</country_name><related>CPI</related><last>413.76</last><previous>412.74</previous></item>
+<item><country_name>Sweden</country_name><related>Core Consumer Prices</related><last>260.29</last><previous>259.78</previous></item>
+<item><country_name>Sweden</country_name><related>CPIF YoY</related><last>2.5</last><previous>3.3</previous></item>
+<item><country_name>Sweden</country_name><related>CPI Housing Utilities</related><last>577.95</last><previous>583.9</previous></item>
+<item><country_name>Sweden</country_name><related>CPI Transportation</related><last>551.2</last><previous>544.94</previous></item>
+<item><country_name>Sweden</country_name><related>Export Prices</related><last>133.4</last><previous>134.2</previous></item>
+<item><country_name>Sweden</country_name><related>Food Inflation</related><last>1.17</last><previous>3.82</previous></item>
+<item><country_name>Sweden</country_name><related>Harmonised Consumer Prices</related><last>128.31</last><previous>128.05</previous></item>
+<item><country_name>Sweden</country_name><related>Import Prices</related><last>136.6</last><previous>138.7</previous></item>
+<item><country_name>Sweden</country_name><related>Inflation Rate YoY</related><last>4.5</last><previous>5.4</previous></item>
+<item><country_name>Sweden</country_name><related>Inflation Rate MoM</related><last>0.2</last><previous>-0.1</previous></item>
+<item><country_name>Sweden</country_name><related>Producer Prices</related><last>132.8</last><previous>132.4</previous></item>
+<item><country_name>Sweden</country_name><related>PPI YoY</related><last>-2.28</last><previous>-7.67</previous></item>
+<item><country_name>South Sudan</country_name><related>Consumer Price Index CPI</related><last>14406.12</last><previous>15694.05</previous></item>
+<item><country_name>South Sudan</country_name><related>Core Consumer Prices</related><last>39292.91</last><previous>43098.41</previous></item>
+<item><country_name>South Sudan</country_name><related>CPI Housing Utilities</related><last>810277.11</last><previous>797448.63</previous></item>
+<item><country_name>South Sudan</country_name><related>CPI Transportation</related><last>910387.44</last><previous>1048008.21</previous></item>
+<item><country_name>South Sudan</country_name><related>Food Inflation</related><last>5.2</last><previous>-10.6</previous></item>
+<item><country_name>South Sudan</country_name><related>Inflation Rate</related><last>5.8</last><previous>0.8</previous></item>
+<item><country_name>South Sudan</country_name><related>Inflation Rate MoM</related><last>-8.2</last><previous>-0.5</previous></item>
+<item><country_name>Somalia</country_name><related>Consumer Price Index CPI</related><last>142.28</last><previous>143.57</previous></item>
+<item><country_name>Somalia</country_name><related>CPI Housing Utilities</related><last>140.0</last><previous>144.35</previous></item>
+<item><country_name>Somalia</country_name><related>CPI Transportation</related><last>120.66</last><previous>122.21</previous></item>
+<item><country_name>Somalia</country_name><related>Food Inflation</related><last>-1.01</last><previous>-2.11</previous></item>
+<item><country_name>Somalia</country_name><related>Inflation Rate YoY</related><last>6.19</last><previous>6.59</previous></item>
+<item><country_name>Somalia</country_name><related>Inflation Rate MoM</related><last>-0.9</last><previous>-0.93</previous></item>
+<item><country_name>South Korea</country_name><related>CPI</related><last>113.77</last><previous>113.15</previous></item>
+<item><country_name>South Korea</country_name><related>Core Consumer Prices</related><last>111.95</last><previous>111.7</previous></item>
+<item><country_name>South Korea</country_name><related>Core Inflation Rate</related><last>2.57</last><previous>2.63</previous></item>
+<item><country_name>South Korea</country_name><related>CPI Housing Utilities</related><last>114.12</last><previous>113.73</previous></item>
+<item><country_name>South Korea</country_name><related>CPI Transportation</related><last>113.64</last><previous>111.97</previous></item>
+<item><country_name>South Korea</country_name><related>Food Inflation</related><last>6.95</last><previous>5.92</previous></item>
+<item><country_name>South Korea</country_name><related>Inflation Rate YoY</related><last>3.1</last><previous>2.8</previous></item>
+<item><country_name>South Korea</country_name><related>Inflation Rate MoM</related><last>0.5</last><previous>0.4</previous></item>
+<item><country_name>Suriname</country_name><related>Consumer Price Index CPI</related><last>765.9</last><previous>759.3</previous></item>
+<item><country_name>Suriname</country_name><related>Food Inflation</related><last>28.5</last><previous>36.1</previous></item>
+<item><country_name>Suriname</country_name><related>Inflation Rate</related><last>29.6</last><previous>33.2</previous></item>
+<item><country_name>Suriname</country_name><related>Inflation Rate MoM</related><last>0.9</last><previous>0.3</previous></item>
+<item><country_name>Solomon Islands</country_name><related>Consumer Price Index CPI</related><last>122.8</last><previous>123.0</previous></item>
+<item><country_name>Solomon Islands</country_name><related>Core Inflation Rate</related><last>3.3</last><previous>3.7</previous></item>
+<item><country_name>Solomon Islands</country_name><related>CPI Housing Utilities</related><last>133.6</last><previous>132.0</previous></item>
+<item><country_name>Solomon Islands</country_name><related>CPI Transportation</related><last>120.4</last><previous>119.3</previous></item>
+<item><country_name>Solomon Islands</country_name><related>Food Inflation</related><last>4.0</last><previous>6.5</previous></item>
+<item><country_name>Solomon Islands</country_name><related>Inflation Rate</related><last>2.8</last><previous>2.7</previous></item>
+<item><country_name>Solomon Islands</country_name><related>Inflation Rate MoM</related><last>-0.2</last><previous>1.7</previous></item>
+<item><country_name>Singapore</country_name><related>CPI</related><last>114.57</last><previous>115.34</previous></item>
+<item><country_name>Singapore</country_name><related>Core Consumer Prices</related><last>115.79</last><previous>115.84</previous></item>
+<item><country_name>Singapore</country_name><related>Core Inflation Rate YoY</related><last>3.1</last><previous>3.3</previous></item>
+<item><country_name>Singapore</country_name><related>CPI Housing Utilities</related><last>111.05</last><previous>113.44</previous></item>
+<item><country_name>Singapore</country_name><related>CPI Transportation</related><last>132.58</last><previous>135.49</previous></item>
+<item><country_name>Singapore</country_name><related>Export Prices</related><last>96.4</last><previous>97.35</previous></item>
+<item><country_name>Singapore</country_name><related>Food Inflation</related><last>3.3</last><previous>3.7</previous></item>
+<item><country_name>Singapore</country_name><related>GDP Deflator</related><last>128.47</last><previous>126.48</previous></item>
+<item><country_name>Singapore</country_name><related>Import Prices</related><last>97.42</last><previous>98.1</previous></item>
+<item><country_name>Singapore</country_name><related>Inflation Rate YoY</related><last>2.9</last><previous>3.7</previous></item>
+<item><country_name>Singapore</country_name><related>Inflation Rate MoM</related><last>-0.7</last><previous>0.4</previous></item>
+<item><country_name>Singapore</country_name><related>Producer Prices</related><last>98.74</last><previous>99.31</previous></item>
+<item><country_name>Singapore</country_name><related>PPI YoY</related><last>-3.0</last><previous>0.9</previous></item>
+<item><country_name>Slovakia</country_name><related>CPI</related><last>231.6</last><previous>230.4</previous></item>
+<item><country_name>Slovakia</country_name><related>Core Consumer Prices</related><last>167.8</last><previous>167.0</previous></item>
+<item><country_name>Slovakia</country_name><related>Core Inflation Rate YoY</related><last>3.7</last><previous>4.5</previous></item>
+<item><country_name>Slovakia</country_name><related>CPI Housing Utilities</related><last>325.9</last><previous>325.7</previous></item>
+<item><country_name>Slovakia</country_name><related>CPI Transportation</related><last>165.3</last><previous>159.9</previous></item>
+<item><country_name>Slovakia</country_name><related>Export Prices</related><last>99.9</last><previous>99.4</previous></item>
+<item><country_name>Slovakia</country_name><related>Food Inflation</related><last>3.1</last><previous>4.9</previous></item>
+<item><country_name>Slovakia</country_name><related>GDP Deflator</related><last>132.15</last><previous>131.57</previous></item>
+<item><country_name>Slovakia</country_name><related>Harmonised Consumer Prices</related><last>141.58</last><previous>141.02</previous></item>
+<item><country_name>Slovakia</country_name><related>Import Prices</related><last>99.3</last><previous>99.4</previous></item>
+<item><country_name>Slovakia</country_name><related>Inflation Rate YoY</related><last>3.39</last><previous>3.92</previous></item>
+<item><country_name>Slovakia</country_name><related>Inflation Rate MoM</related><last>0.5</last><previous>0.7</previous></item>
+<item><country_name>Slovakia</country_name><related>Producer Prices</related><last>117.0</last><previous>118.9</previous></item>
+<item><country_name>Slovakia</country_name><related>Producer Prices Change</related><last>9.6</last><previous>7.5</previous></item>
+<item><country_name>Slovenia</country_name><related>CPI</related><last>125.72</last><previous>124.78</previous></item>
+<item><country_name>Slovenia</country_name><related>Core Consumer Prices</related><last>125.14</last><previous>124.26</previous></item>
+<item><country_name>Slovenia</country_name><related>Core Inflation Rate</related><last>3.78</last><previous>3.8</previous></item>
+<item><country_name>Slovenia</country_name><related>CPI Housing Utilities</related><last>141.33</last><previous>140.57</previous></item>
+<item><country_name>Slovenia</country_name><related>CPI Transportation</related><last>112.89</last><previous>111.51</previous></item>
+<item><country_name>Slovenia</country_name><related>Food Inflation</related><last>2.0</last><previous>3.23</previous></item>
+<item><country_name>Slovenia</country_name><related>GDP Deflator</related><last>108.9</last><previous>106.5</previous></item>
+<item><country_name>Slovenia</country_name><related>Harmonised Consumer Prices</related><last>126.34</last><previous>125.57</previous></item>
+<item><country_name>Slovenia</country_name><related>Inflation Rate YoY</related><last>3.4</last><previous>3.3</previous></item>
+<item><country_name>Slovenia</country_name><related>Inflation Rate MoM</related><last>0.8</last><previous>-0.6</previous></item>
+<item><country_name>Slovenia</country_name><related>Producer Prices</related><last>146.07</last><previous>146.63</previous></item>
+<item><country_name>Slovenia</country_name><related>PPI YoY</related><last>-1.0</last><previous>0.0</previous></item>
+<item><country_name>Seychelles</country_name><related>Consumer Price Index CPI</related><last>126.95</last><previous>125.97</previous></item>
+<item><country_name>Seychelles</country_name><related>Core Consumer Prices</related><last>127.72</last><previous>127.32</previous></item>
+<item><country_name>Seychelles</country_name><related>Core Inflation Rate</related><last>-1.51</last><previous>-1.04</previous></item>
+<item><country_name>Seychelles</country_name><related>CPI Housing Utilities</related><last>144.18</last><previous>137.67</previous></item>
+<item><country_name>Seychelles</country_name><related>CPI Transportation</related><last>143.06</last><previous>144.14</previous></item>
+<item><country_name>Seychelles</country_name><related>Export Prices</related><last>115.15</last><previous>114.15</previous></item>
+<item><country_name>Seychelles</country_name><related>Food Inflation</related><last>-1.84</last><previous>-2.33</previous></item>
+<item><country_name>Seychelles</country_name><related>Import Prices</related><last>102.36</last><previous>103.24</previous></item>
+<item><country_name>Seychelles</country_name><related>Inflation Rate YoY</related><last>-0.25</last><previous>-2.02</previous></item>
+<item><country_name>Seychelles</country_name><related>Inflation Rate MoM</related><last>0.78</last><previous>0.58</previous></item>
+<item><country_name>Seychelles</country_name><related>Producer Prices</related><last>108.3</last><previous>72.6</previous></item>
+<item><country_name>Seychelles</country_name><related>Producer Prices Change</related><last>-1.3</last><previous>-37.4</previous></item>
+<item><country_name>Senegal</country_name><related>Rent Inflation</related><last>-0.8</last><previous>-0.9</previous></item>
+<item><country_name>Senegal</country_name><related>Consumer Price Index CPI</related><last>128.1</last><previous>127.3</previous></item>
+<item><country_name>Senegal</country_name><related>CPI Housing Utilities</related><last>109.7</last><previous>109.7</previous></item>
+<item><country_name>Senegal</country_name><related>CPI Transportation</related><last>112.1</last><previous>112.4</previous></item>
+<item><country_name>Senegal</country_name><related>Export Prices</related><last>134.9</last><previous>129.7</previous></item>
+<item><country_name>Senegal</country_name><related>Food Inflation</related><last>3.3</last><previous>2.6</previous></item>
+<item><country_name>Senegal</country_name><related>Import Prices</related><last>134.0</last><previous>138.7</previous></item>
+<item><country_name>Senegal</country_name><related>Inflation Rate YoY</related><last>2.3</last><previous>2.1</previous></item>
+<item><country_name>Senegal</country_name><related>Inflation Rate MoM</related><last>0.6</last><previous>-0.5</previous></item>
+<item><country_name>Senegal</country_name><related>Producer Prices</related><last>138.3</last><previous>132.8</previous></item>
+<item><country_name>Senegal</country_name><related>Producer Prices Change</related><last>1.1</last><previous>0.9</previous></item>
+<item><country_name>Serbia</country_name><related>CPI</related><last>271.1</last><previous>269.6</previous></item>
+<item><country_name>Serbia</country_name><related>CPI Housing Utilities</related><last>315.1</last><previous>314.4</previous></item>
+<item><country_name>Serbia</country_name><related>CPI Transportation</related><last>214.8</last><previous>210.7</previous></item>
+<item><country_name>Serbia</country_name><related>Food Inflation</related><last>4.7</last><previous>7.2</previous></item>
+<item><country_name>Serbia</country_name><related>Inflation Rate YoY</related><last>5.6</last><previous>6.4</previous></item>
+<item><country_name>Serbia</country_name><related>Inflation Rate MoM</related><last>0.6</last><previous>0.3</previous></item>
+<item><country_name>Serbia</country_name><related>PPI YoY</related><last>0.7</last><previous>0.0</previous></item>
+<item><country_name>South Africa</country_name><related>Consumer Price Index CPI</related><last>112.8</last><previous>112.7</previous></item>
+<item><country_name>South Africa</country_name><related>Core Consumer Prices</related><last>109.9</last><previous>109.6</previous></item>
+<item><country_name>South Africa</country_name><related>Core Inflation Rate YoY</related><last>4.6</last><previous>4.5</previous></item>
+<item><country_name>South Africa</country_name><related>Core Inflation Rate MoM</related><last>0.3</last><previous>0.2</previous></item>
+<item><country_name>South Africa</country_name><related>CPI Housing Utilities</related><last>110.0</last><previous>110.0</previous></item>
+<item><country_name>South Africa</country_name><related>CPI Transportation</related><last>115.0</last><previous>116.9</previous></item>
+<item><country_name>South Africa</country_name><related>Food Inflation</related><last>7.2</last><previous>8.5</previous></item>
+<item><country_name>South Africa</country_name><related>Inflation Rate YoY</related><last>5.3</last><previous>5.1</previous></item>
+<item><country_name>South Africa</country_name><related>Inflation Rate MoM</related><last>0.1</last><previous>0.0</previous></item>
+<item><country_name>South Africa</country_name><related>PPI MoM</related><last>0.1</last><previous>-0.6</previous></item>
+<item><country_name>South Africa</country_name><related>Producer Prices</related><last>100.1</last><previous>100.0</previous></item>
+<item><country_name>South Africa</country_name><related>PPI YoY</related><last>4.7</last><previous>4.0</previous></item>
+<item><country_name>Saudi Arabia</country_name><related>Consumer Price Index CPI</related><last>110.64</last><previous>110.44</previous></item>
+<item><country_name>Saudi Arabia</country_name><related>CPI Housing Utilities</related><last>103.28</last><previous>102.02</previous></item>
+<item><country_name>Saudi Arabia</country_name><related>CPI Transportation</related><last>117.1</last><previous>117.49</previous></item>
+<item><country_name>Saudi Arabia</country_name><related>Food Inflation</related><last>1.28</last><previous>1.03</previous></item>
+<item><country_name>Saudi Arabia</country_name><related>GDP Deflator</related><last>119.5</last><previous>103.72</previous></item>
+<item><country_name>Saudi Arabia</country_name><related>Inflation Rate YoY</related><last>1.8</last><previous>1.6</previous></item>
+<item><country_name>Saudi Arabia</country_name><related>Inflation Rate MoM</related><last>0.2</last><previous>0.3</previous></item>
+<item><country_name>Saudi Arabia</country_name><related>Producer Prices</related><last>154.3</last><previous>156.1</previous></item>
+<item><country_name>Saudi Arabia</country_name><related>Wholesale Prices YoY</related><last>3.1</last><previous>4.3</previous></item>
+<item><country_name>Sao Tome and Principe</country_name><related>Consumer Price Index CPI</related><last>237.2</last><previous>235.1</previous></item>
+<item><country_name>Sao Tome and Principe</country_name><related>Inflation Rate YoY</related><last>17.0</last><previous>17.0</previous></item>
+<item><country_name>Sao Tome and Principe</country_name><related>Inflation Rate MoM</related><last>0.9</last><previous>2.0</previous></item>
+<item><country_name>Rwanda</country_name><related>Core Inflation Rate</related><last>8.8</last><previous>9.6</previous></item>
+<item><country_name>Rwanda</country_name><related>CPI Housing Utilities</related><last>151.21</last><previous>147.64</previous></item>
+<item><country_name>Rwanda</country_name><related>CPI Transportation</related><last>146.61</last><previous>145.02</previous></item>
+<item><country_name>Rwanda</country_name><related>Food Inflation</related><last>0.8</last><previous>2.9</previous></item>
+<item><country_name>Rwanda</country_name><related>GDP Deflator</related><last>149.0</last><previous>146.0</previous></item>
+<item><country_name>Rwanda</country_name><related>Inflation Rate YoY</related><last>3.2</last><previous>3.1</previous></item>
+<item><country_name>Rwanda</country_name><related>Inflation Rate MoM</related><last>2.7</last><previous>-0.9</previous></item>
+<item><country_name>Sudan</country_name><related>Consumer Price Index CPI</related><last>68887.67</last><previous>67700.87</previous></item>
+<item><country_name>Sudan</country_name><related>Inflation Rate</related><last>63.3</last><previous>83.6</previous></item>
+<item><country_name>Sudan</country_name><related>Inflation Rate MoM</related><last>1.75</last><previous>0.03</previous></item>
+<item><country_name>Puerto Rico</country_name><related>Consumer Price Index CPI</related><last>134.64</last><previous>134.26</previous></item>
+<item><country_name>Puerto Rico</country_name><related>CPI Housing Utilities</related><last>123.83</last><previous>123.29</previous></item>
+<item><country_name>Puerto Rico</country_name><related>CPI Transportation</related><last>125.55</last><previous>125.92</previous></item>
+<item><country_name>Puerto Rico</country_name><related>Food Inflation</related><last>2.2</last><previous>2.8</previous></item>
+<item><country_name>Puerto Rico</country_name><related>Inflation Rate</related><last>2.2</last><previous>2.0</previous></item>
+<item><country_name>Puerto Rico</country_name><related>Inflation Rate MoM</related><last>0.3</last><previous>-0.1</previous></item>
+<item><country_name>Portugal</country_name><related>CPI</related><last>118.65</last><previous>118.62</previous></item>
+<item><country_name>Portugal</country_name><related>Core Consumer Prices</related><last>116.15</last><previous>116.12</previous></item>
+<item><country_name>Portugal</country_name><related>Core Inflation Rate</related><last>2.11</last><previous>2.42</previous></item>
+<item><country_name>Portugal</country_name><related>CPI Housing Utilities</related><last>129.09</last><previous>128.31</previous></item>
+<item><country_name>Portugal</country_name><related>CPI Transportation</related><last>116.09</last><previous>114.88</previous></item>
+<item><country_name>Portugal</country_name><related>Food Inflation</related><last>0.8</last><previous>2.7</previous></item>
+<item><country_name>Portugal</country_name><related>GDP Deflator</related><last>7.5</last><previous>7.7</previous></item>
+<item><country_name>Portugal</country_name><related>Harmonised Consumer Prices</related><last>118.54</last><previous>118.36</previous></item>
+<item><country_name>Portugal</country_name><related>Inflation Rate YoY Prel</related><last>2.07</last><previous>2.3</previous></item>
+<item><country_name>Portugal</country_name><related>Inflation Rate MoM Prel</related><last>0.0</last><previous>0.0</previous></item>
+<item><country_name>Portugal</country_name><related>Producer Prices</related><last>124.6</last><previous>124.2</previous></item>
+<item><country_name>Portugal</country_name><related>PPI YoY</related><last>-4.3</last><previous>-4.5</previous></item>
+<item><country_name>Poland</country_name><related>Consumer Price Index CPI</related><last>251.3</last><previous>250.5</previous></item>
+<item><country_name>Poland</country_name><related>Core Consumer Prices</related><last>146.11</last><previous>145.68</previous></item>
+<item><country_name>Poland</country_name><related>Export Prices</related><last>86.2</last><previous>91.6</previous></item>
+<item><country_name>Poland</country_name><related>Food Inflation</related><last>2.7</last><previous>4.9</previous></item>
+<item><country_name>Poland</country_name><related>Import Prices</related><last>81.4</last><previous>87.1</previous></item>
+<item><country_name>Poland</country_name><related>Inflation Rate YoY</related><last>2.8</last><previous>3.9</previous></item>
+<item><country_name>Poland</country_name><related>Inflation Rate MoM</related><last>0.3</last><previous>0.4</previous></item>
+<item><country_name>Poland</country_name><related>Producer Prices</related><last>136.1</last><previous>136.4</previous></item>
+<item><country_name>Poland</country_name><related>PPI YoY</related><last>-9.0</last><previous>-6.9</previous></item>
+<item><country_name>Russia</country_name><related>Consumer Price Index CPI</related><last>253.0</last><previous>251.3</previous></item>
+<item><country_name>Russia</country_name><related>Core Consumer Prices</related><last>100.5</last><previous>100.6</previous></item>
+<item><country_name>Russia</country_name><related>Core Inflation Rate</related><last>7.59</last><previous>7.15</previous></item>
+<item><country_name>Russia</country_name><related>Food Inflation</related><last>8.08</last><previous>8.1</previous></item>
+<item><country_name>Russia</country_name><related>GDP Deflator</related><last>125.06</last><previous>120.23</previous></item>
+<item><country_name>Russia</country_name><related>Inflation Rate YoY</related><last>7.7</last><previous>7.4</previous></item>
+<item><country_name>Russia</country_name><related>Inflation Rate MoM</related><last>0.7</last><previous>0.9</previous></item>
+<item><country_name>Russia</country_name><related>PPI MoM</related><last>-1.4</last><previous>-3.1</previous></item>
+<item><country_name>Russia</country_name><related>Producer Prices</related><last>291.5</last><previous>295.6</previous></item>
+<item><country_name>Russia</country_name><related>PPI YoY</related><last>19.4</last><previous>4.0</previous></item>
+<item><country_name>Philippines</country_name><related>Food Inflation</related><last>4.6</last><previous>3.5</previous></item>
+<item><country_name>Philippines</country_name><related>Consumer Price Index CPI</related><last>125.5</last><previous>124.8</previous></item>
+<item><country_name>Philippines</country_name><related>Core Consumer Prices</related><last>124.5</last><previous>124.1</previous></item>
+<item><country_name>Philippines</country_name><related>Core Inflation Rate YoY</related><last>3.6</last><previous>3.8</previous></item>
+<item><country_name>Philippines</country_name><related>CPI Housing Utilities</related><last>119.8</last><previous>118.8</previous></item>
+<item><country_name>Philippines</country_name><related>CPI Transportation</related><last>130.6</last><previous>128.9</previous></item>
+<item><country_name>Philippines</country_name><related>Export Prices</related><last>119.28</last><previous>110.6</previous></item>
+<item><country_name>Philippines</country_name><related>GDP Deflator</related><last>119.79</last><previous>113.8</previous></item>
+<item><country_name>Philippines</country_name><related>Import Prices</related><last>120.86</last><previous>129.78</previous></item>
+<item><country_name>Philippines</country_name><related>Inflation Rate YoY</related><last>3.4</last><previous>2.8</previous></item>
+<item><country_name>Philippines</country_name><related>Inflation Rate MoM</related><last>0.6</last><previous>0.6</previous></item>
+<item><country_name>Philippines</country_name><related>Producer Prices</related><last>97.65</last><previous>98.68</previous></item>
+<item><country_name>Philippines</country_name><related>PPI YoY</related><last>-1.0</last><previous>0.6</previous></item>
+<item><country_name>Philippines</country_name><related>Retail Price Index YoY</related><last>2.9</last><previous>2.9</previous></item>
+<item><country_name>Sierra Leone</country_name><related>Consumer Price Index CPI</related><last>207.7</last><previous>208.59</previous></item>
+<item><country_name>Sierra Leone</country_name><related>CPI Housing Utilities</related><last>178.51</last><previous>177.95</previous></item>
+<item><country_name>Sierra Leone</country_name><related>CPI Transportation</related><last>216.51</last><previous>217.23</previous></item>
+<item><country_name>Sierra Leone</country_name><related>Food Inflation</related><last>49.82</last><previous>57.21</previous></item>
+<item><country_name>Sierra Leone</country_name><related>Inflation Rate</related><last>47.42</last><previous>52.16</previous></item>
+<item><country_name>Sierra Leone</country_name><related>Inflation Rate MoM</related><last>-0.43</last><previous>2.3</previous></item>
+<item><country_name>Papua New Guinea</country_name><related>Consumer Price Index CPI</related><last>171.6</last><previous>168.5</previous></item>
+<item><country_name>Papua New Guinea</country_name><related>Food Inflation</related><last>6.4</last><previous>7.4</previous></item>
+<item><country_name>Papua New Guinea</country_name><related>Inflation Rate</related><last>2.22</last><previous>1.41</previous></item>
+<item><country_name>Peru</country_name><related>Consumer Price Index CPI</related><last>112.62</last><previous>111.99</previous></item>
+<item><country_name>Peru</country_name><related>Core Consumer Prices</related><last>111.78</last><previous>111.33</previous></item>
+<item><country_name>Peru</country_name><related>Core Inflation Rate</related><last>4.24</last><previous>4.24</previous></item>
+<item><country_name>Peru</country_name><related>CPI Housing Utilities</related><last>103.96</last><previous>103.16</previous></item>
+<item><country_name>Peru</country_name><related>CPI Transportation</related><last>113.55</last><previous>113.1</previous></item>
+<item><country_name>Peru</country_name><related>Inflation Rate YoY</related><last>3.3</last><previous>3.02</previous></item>
+<item><country_name>Peru</country_name><related>Inflation Rate MoM</related><last>0.56</last><previous>0.02</previous></item>
+<item><country_name>Peru</country_name><related>Producer Prices</related><last>132.31</last><previous>131.88</previous></item>
+<item><country_name>Palestine</country_name><related>Consumer Price Index CPI</related><last>127.25</last><previous>123.23</previous></item>
+<item><country_name>Palestine</country_name><related>CPI Transportation</related><last>146.92</last><previous>133.79</previous></item>
+<item><country_name>Palestine</country_name><related>Food Inflation</related><last>33.08</last><previous>24.67</previous></item>
+<item><country_name>Palestine</country_name><related>Inflation Rate YoY</related><last>27.2</last><previous>19.0</previous></item>
+<item><country_name>Palestine</country_name><related>Producer Prices</related><last>134.09</last><previous>127.09</previous></item>
+<item><country_name>Palestine</country_name><related>PPI YoY</related><last>26.7</last><previous>19.21</previous></item>
+<item><country_name>Panama</country_name><related>Consumer Price Index CPI</related><last>110.19</last><previous>109.92</previous></item>
+<item><country_name>Panama</country_name><related>CPI Housing Utilities</related><last>107.34</last><previous>105.57</previous></item>
+<item><country_name>Panama</country_name><related>CPI Transportation</related><last>111.81</last><previous>110.61</previous></item>
+<item><country_name>Panama</country_name><related>Food Inflation</related><last>1.49</last><previous>2.38</previous></item>
+<item><country_name>Panama</country_name><related>Inflation Rate YoY</related><last>1.22</last><previous>1.92</previous></item>
+<item><country_name>Panama</country_name><related>Inflation Rate MoM</related><last>0.25</last><previous>0.08</previous></item>
+<item><country_name>Pakistan</country_name><related>Consumer Price Index CPI</related><last>260.01</last><previous>259.92</previous></item>
+<item><country_name>Pakistan</country_name><related>CPI Housing Utilities</related><last>240.63</last><previous>236.43</previous></item>
+<item><country_name>Pakistan</country_name><related>CPI Transportation</related><last>311.93</last><previous>305.48</previous></item>
+<item><country_name>Pakistan</country_name><related>Food Inflation</related><last>18.14</last><previous>24.96</previous></item>
+<item><country_name>Pakistan</country_name><related>Inflation Rate YoY</related><last>23.06</last><previous>28.34</previous></item>
+<item><country_name>Pakistan</country_name><related>Inflation Rate MoM</related><last>0.0</last><previous>1.8</previous></item>
+<item><country_name>Pakistan</country_name><related>Producer Prices</related><last>314.02</last><previous>310.54</previous></item>
+<item><country_name>Pakistan</country_name><related>Wholesale Prices YoY</related><last>18.66</last><previous>26.95</previous></item>
+<item><country_name>Oman</country_name><related>CPI Transportation</related><last>100.7</last><previous>101.8</previous></item>
+<item><country_name>Oman</country_name><related>Food Inflation</related><last>1.36</last><previous>2.93</previous></item>
+<item><country_name>Oman</country_name><related>Inflation Rate YoY</related><last>-0.1</last><previous>0.5</previous></item>
+<item><country_name>Oman</country_name><related>Inflation Rate MoM</related><last>0.01</last><previous>-0.2</previous></item>
+<item><country_name>Romania</country_name><related>Food Inflation</related><last>4.48</last><previous>5.64</previous></item>
+<item><country_name>Romania</country_name><related>Consumer Price Index CPI</related><last>246.99</last><previous>245.01</previous></item>
+<item><country_name>Romania</country_name><related>CPI Transportation</related><last>100.17</last><previous>100.06</previous></item>
+<item><country_name>Romania</country_name><related>Inflation Rate YoY</related><last>7.23</last><previous>7.41</previous></item>
+<item><country_name>Romania</country_name><related>Inflation Rate MoM</related><last>0.81</last><previous>1.1</previous></item>
+<item><country_name>Romania</country_name><related>Producer Prices</related><last>192.4</last><previous>193.6</previous></item>
+<item><country_name>Romania</country_name><related>PPI YoY</related><last>-5.95</last><previous>-3.39</previous></item>
+<item><country_name>Niger</country_name><related>Consumer Price Index CPI</related><last>121.1</last><previous>120.9</previous></item>
+<item><country_name>Niger</country_name><related>Food Inflation</related><last>9.6</last><previous>10.2</previous></item>
+<item><country_name>Niger</country_name><related>Inflation Rate</related><last>6.88</last><previous>7.18</previous></item>
+<item><country_name>Niger</country_name><related>Inflation Rate MoM</related><last>0.2</last><previous>0.3</previous></item>
+<item><country_name>Nigeria</country_name><related>Consumer Price Index CPI</related><last>681.4</last><previous>660.8</previous></item>
+<item><country_name>Nigeria</country_name><related>Core Consumer Prices</related><last>541.04</last><previous>530.04</previous></item>
+<item><country_name>Nigeria</country_name><related>Core Inflation Rate</related><last>24.7</last><previous>23.44</previous></item>
+<item><country_name>Nigeria</country_name><related>CPI Housing Utilities</related><last>543.9</last><previous>530.8</previous></item>
+<item><country_name>Nigeria</country_name><related>CPI Transportation</related><last>570.0</last><previous>560.2</previous></item>
+<item><country_name>Nigeria</country_name><related>Food Inflation YoY</related><last>37.92</last><previous>35.41</previous></item>
+<item><country_name>Nigeria</country_name><related>GDP Deflator</related><last>302.7</last><previous>311.99</previous></item>
+<item><country_name>Nigeria</country_name><related>Inflation Rate YoY</related><last>31.7</last><previous>29.9</previous></item>
+<item><country_name>Nigeria</country_name><related>Inflation Rate MoM</related><last>3.1</last><previous>2.6</previous></item>
+<item><country_name>Norway</country_name><related>Food Inflation</related><last>6.3</last><previous>8.68</previous></item>
+<item><country_name>Norway</country_name><related>CPI</related><last>132.3</last><previous>132.0</previous></item>
+<item><country_name>Norway</country_name><related>Core Consumer Prices</related><last>128.2</last><previous>127.7</previous></item>
+<item><country_name>Norway</country_name><related>Core Inflation Rate YoY</related><last>4.9</last><previous>5.3</previous></item>
+<item><country_name>Norway</country_name><related>CPI Housing Utilities</related><last>136.2</last><previous>137.1</previous></item>
+<item><country_name>Norway</country_name><related>CPI Transportation</related><last>136.9</last><previous>134.6</previous></item>
+<item><country_name>Norway</country_name><related>Export Prices</related><last>193.5</last><previous>182.4</previous></item>
+<item><country_name>Norway</country_name><related>GDP Deflator</related><last>113.88</last><previous>111.16</previous></item>
+<item><country_name>Norway</country_name><related>Harmonised Consumer Prices</related><last>134.2</last><previous>133.9</previous></item>
+<item><country_name>Norway</country_name><related>Import Prices</related><last>208.5</last><previous>201.5</previous></item>
+<item><country_name>Norway</country_name><related>Inflation Rate YoY</related><last>4.5</last><previous>4.7</previous></item>
+<item><country_name>Norway</country_name><related>Inflation Rate MoM</related><last>0.2</last><previous>0.1</previous></item>
+<item><country_name>Norway</country_name><related>Producer Prices</related><last>109.1</last><previous>111.9</previous></item>
+<item><country_name>Norway</country_name><related>PPI YoY</related><last>-12.6</last><previous>-12.9</previous></item>
+<item><country_name>Nicaragua</country_name><related>Consumer Price Index CPI</related><last>303.3</last><previous>302.5</previous></item>
+<item><country_name>Nicaragua</country_name><related>Core Consumer Prices</related><last>280.0</last><previous>278.66</previous></item>
+<item><country_name>Nicaragua</country_name><related>Core Inflation Rate</related><last>6.31</last><previous>6.32</previous></item>
+<item><country_name>Nicaragua</country_name><related>CPI Housing Utilities</related><last>251.0</last><previous>250.4</previous></item>
+<item><country_name>Nicaragua</country_name><related>CPI Transportation</related><last>254.7</last><previous>254.6</previous></item>
+<item><country_name>Nicaragua</country_name><related>Food Inflation</related><last>6.76</last><previous>7.26</previous></item>
+<item><country_name>Nicaragua</country_name><related>Inflation Rate YoY</related><last>5.79</last><previous>5.6</previous></item>
+<item><country_name>Nicaragua</country_name><related>Inflation Rate MoM</related><last>0.28</last><previous>1.57</previous></item>
+<item><country_name>Qatar</country_name><related>Consumer Price Index CPI</related><last>108.55</last><previous>109.98</previous></item>
+<item><country_name>Qatar</country_name><related>CPI Housing Utilities</related><last>95.91</last><previous>95.36</previous></item>
+<item><country_name>Qatar</country_name><related>CPI Transportation</related><last>111.4</last><previous>109.32</previous></item>
+<item><country_name>Qatar</country_name><related>Food Inflation</related><last>5.23</last><previous>4.55</previous></item>
+<item><country_name>Qatar</country_name><related>Inflation Rate YoY</related><last>2.99</last><previous>1.65</previous></item>
+<item><country_name>Qatar</country_name><related>Inflation Rate MoM</related><last>-1.3</last><previous>1.59</previous></item>
+<item><country_name>Qatar</country_name><related>Producer Prices</related><last>118.4</last><previous>118.65</previous></item>
+<item><country_name>Qatar</country_name><related>Producer Prices Change</related><last>-12.94</last><previous>-17.36</previous></item>
+<item><country_name>Paraguay</country_name><related>Consumer Price Index CPI</related><last>131.0</last><previous>131.0</previous></item>
+<item><country_name>Paraguay</country_name><related>Core Consumer Prices</related><last>131.0</last><previous>130.5</previous></item>
+<item><country_name>Paraguay</country_name><related>Core Inflation Rate</related><last>4.6</last><previous>4.7</previous></item>
+<item><country_name>Paraguay</country_name><related>CPI Housing Utilities</related><last>115.5</last><previous>115.4</previous></item>
+<item><country_name>Paraguay</country_name><related>CPI Transportation</related><last>144.0</last><previous>144.6</previous></item>
+<item><country_name>Paraguay</country_name><related>Food Inflation</related><last>7.4</last><previous>8.8</previous></item>
+<item><country_name>Paraguay</country_name><related>GDP Deflator</related><last>139.68</last><previous>138.68</previous></item>
+<item><country_name>Paraguay</country_name><related>Inflation Rate YoY</related><last>2.9</last><previous>3.4</previous></item>
+<item><country_name>Paraguay</country_name><related>Inflation Rate MoM</related><last>0.0</last><previous>0.9</previous></item>
+<item><country_name>Paraguay</country_name><related>Producer Prices</related><last>158.0</last><previous>158.7</previous></item>
+<item><country_name>Paraguay</country_name><related>PPI YoY</related><last>-3.07</last><previous>-1.67</previous></item>
+<item><country_name>Namibia</country_name><related>Consumer Price Index CPI</related><last>168.96</last><previous>168.94</previous></item>
+<item><country_name>Namibia</country_name><related>CPI Housing Utilities</related><last>145.56</last><previous>146.64</previous></item>
+<item><country_name>Namibia</country_name><related>CPI Transportation</related><last>183.45</last><previous>182.78</previous></item>
+<item><country_name>Namibia</country_name><related>Export Prices</related><last>138.0</last><previous>124.9</previous></item>
+<item><country_name>Namibia</country_name><related>GDP Deflator</related><last>143.08</last><previous>133.45</previous></item>
+<item><country_name>Namibia</country_name><related>Import Prices</related><last>112.0</last><previous>109.9</previous></item>
+<item><country_name>Namibia</country_name><related>Inflation Rate YoY</related><last>5.05</last><previous>5.45</previous></item>
+<item><country_name>Namibia</country_name><related>Inflation Rate MoM</related><last>0.01</last><previous>1.27</previous></item>
+<item><country_name>Myanmar</country_name><related>Consumer Price Index CPI</related><last>188.05</last><previous>176.59</previous></item>
+<item><country_name>Myanmar</country_name><related>CPI Housing Utilities</related><last>177.8</last><previous>169.73</previous></item>
+<item><country_name>Myanmar</country_name><related>CPI Transportation</related><last>220.13</last><previous>212.06</previous></item>
+<item><country_name>Myanmar</country_name><related>Food Inflation</related><last>18.43</last><previous>-7.6</previous></item>
+<item><country_name>Myanmar</country_name><related>Inflation Rate</related><last>28.58</last><previous>27.5</previous></item>
+<item><country_name>Turkey</country_name><related>CPI</related><last>2073.88</last><previous>1984.02</previous></item>
+<item><country_name>Turkey</country_name><related>Core Consumer Prices</related><last>1622.71</last><previous>1566.75</previous></item>
+<item><country_name>Turkey</country_name><related>Core Inflation Rate</related><last>72.89</last><previous>70.48</previous></item>
+<item><country_name>Turkey</country_name><related>CPI Housing Utilities</related><last>1926.26</last><previous>1862.79</previous></item>
+<item><country_name>Turkey</country_name><related>CPI Transportation</related><last>2371.38</last><previous>2305.71</previous></item>
+<item><country_name>Turkey</country_name><related>Export Prices</related><last>111.39</last><previous>111.11</previous></item>
+<item><country_name>Turkey</country_name><related>Food Inflation</related><last>71.12</last><previous>69.71</previous></item>
+<item><country_name>Turkey</country_name><related>GDP Deflator</related><last>240.4</last><previous>237.4</previous></item>
+<item><country_name>Turkey</country_name><related>Import Prices</related><last>127.98</last><previous>128.8</previous></item>
+<item><country_name>Turkey</country_name><related>Inflation Rate YoY</related><last>67.07</last><previous>64.86</previous></item>
+<item><country_name>Turkey</country_name><related>Inflation Rate MoM</related><last>4.53</last><previous>6.7</previous></item>
+<item><country_name>Turkey</country_name><related>Producer Prices</related><last>3149.03</last><previous>3035.59</previous></item>
+<item><country_name>Turkey</country_name><related>PPI YoY</related><last>47.29</last><previous>44.2</previous></item>
+<item><country_name>New Zealand</country_name><related>CPI</related><last>1259.0</last><previous>1253.0</previous></item>
+<item><country_name>New Zealand</country_name><related>Core Consumer Prices</related><last>1250.0</last><previous>1244.0</previous></item>
+<item><country_name>New Zealand</country_name><related>CPI Housing Utilities</related><last>1347.0</last><previous>1336.0</previous></item>
+<item><country_name>New Zealand</country_name><related>CPI Transportation</related><last>1301.0</last><previous>1305.0</previous></item>
+<item><country_name>New Zealand</country_name><related>Export Prices</related><last>1367.0</last><previous>1427.0</previous></item>
+<item><country_name>New Zealand</country_name><related>Food Inflation YoY</related><last>2.1</last><previous>4.0</previous></item>
+<item><country_name>New Zealand</country_name><related>GDP Deflator</related><last>1464.0</last><previous>1436.0</previous></item>
+<item><country_name>New Zealand</country_name><related>Import Prices</related><last>1052.0</last><previous>1013.0</previous></item>
+<item><country_name>New Zealand</country_name><related>Inflation Rate YoY</related><last>4.7</last><previous>5.6</previous></item>
+<item><country_name>New Zealand</country_name><related>Inflation Rate</related><last>0.5</last><previous>1.8</previous></item>
+<item><country_name>New Zealand</country_name><related>Producer Prices</related><last>1397.0</last><previous>1387.0</previous></item>
+<item><country_name>Mongolia</country_name><related>Consumer Price Index CPI</related><last>141.6</last><previous>140.6</previous></item>
+<item><country_name>Mongolia</country_name><related>CPI Housing Utilities</related><last>129.9</last><previous>129.6</previous></item>
+<item><country_name>Mongolia</country_name><related>CPI Transportation</related><last>131.7</last><previous>132.2</previous></item>
+<item><country_name>Mongolia</country_name><related>Food Inflation</related><last>10.3</last><previous>11.7</previous></item>
+<item><country_name>Mongolia</country_name><related>Inflation Rate YoY</related><last>7.0</last><previous>7.6</previous></item>
+<item><country_name>Mongolia</country_name><related>Inflation Rate MoM</related><last>0.7</last><previous>0.8</previous></item>
+<item><country_name>Mongolia</country_name><related>Producer Prices</related><last>223.0</last><previous>255.8</previous></item>
+<item><country_name>Mongolia</country_name><related>Producer Prices Change</related><last>3.7</last><previous>6.1</previous></item>
+<item><country_name>New Caledonia</country_name><related>Consumer Price Index CPI</related><last>104.91</last><previous>104.38</previous></item>
+<item><country_name>New Caledonia</country_name><related>CPI Housing Utilities</related><last>104.25</last><previous>104.24</previous></item>
+<item><country_name>New Caledonia</country_name><related>CPI Transportation</related><last>105.15</last><previous>105.12</previous></item>
+<item><country_name>New Caledonia</country_name><related>Food Inflation</related><last>-0.2</last><previous>-1.0</previous></item>
+<item><country_name>New Caledonia</country_name><related>Inflation Rate</related><last>0.0</last><previous>-0.1</previous></item>
+<item><country_name>New Caledonia</country_name><related>Inflation Rate MoM</related><last>0.8</last><previous>-0.1</previous></item>
+<item><country_name>Montenegro</country_name><related>Consumer Price Index CPI</related><last>135.2</last><previous>134.6</previous></item>
+<item><country_name>Montenegro</country_name><related>CPI Housing Utilities</related><last>130.5</last><previous>130.3</previous></item>
+<item><country_name>Montenegro</country_name><related>CPI Transportation</related><last>127.4</last><previous>124.5</previous></item>
+<item><country_name>Montenegro</country_name><related>Export Prices</related><last>179.4</last><previous>179.6</previous></item>
+<item><country_name>Montenegro</country_name><related>Food Inflation</related><last>0.9</last><previous>1.3</previous></item>
+<item><country_name>Montenegro</country_name><related>Harmonised Consumer Prices</related><last>134.0</last><previous>133.39</previous></item>
+<item><country_name>Montenegro</country_name><related>Harmonised Inflation Rate YoY</related><last>4.9</last><previous>5.0</previous></item>
+<item><country_name>Montenegro</country_name><related>Inflation Rate YoY</related><last>4.3</last><previous>4.4</previous></item>
+<item><country_name>Montenegro</country_name><related>Inflation Rate MoM</related><last>0.4</last><previous>0.5</previous></item>
+<item><country_name>Montenegro</country_name><related>Producer Prices</related><last>206.5</last><previous>202.1</previous></item>
+<item><country_name>Montenegro</country_name><related>PPI YoY</related><last>5.5</last><previous>2.4</previous></item>
+<item><country_name>Mozambique</country_name><related>Consumer Price Index CPI</related><last>102.93</last><previous>102.45</previous></item>
+<item><country_name>Mozambique</country_name><related>CPI Housing Utilities</related><last>146.83</last><previous>145.99</previous></item>
+<item><country_name>Mozambique</country_name><related>CPI Transportation</related><last>170.07</last><previous>170.09</previous></item>
+<item><country_name>Mozambique</country_name><related>Food Inflation</related><last>6.89</last><previous>7.05</previous></item>
+<item><country_name>Mozambique</country_name><related>Inflation Rate YoY</related><last>4.0</last><previous>4.19</previous></item>
+<item><country_name>Mozambique</country_name><related>Inflation Rate MoM</related><last>0.47</last><previous>0.93</previous></item>
+<item><country_name>Mozambique</country_name><related>Producer Prices</related><last>141.1</last><previous>139.2</previous></item>
+<item><country_name>Moldova</country_name><related>Consumer Price Index CPI</related><last>4102.06</last><previous>4073.06</previous></item>
+<item><country_name>Moldova</country_name><related>Core Inflation Rate</related><last>6.4</last><previous>6.4</previous></item>
+<item><country_name>Moldova</country_name><related>Food Inflation</related><last>3.47</last><previous>4.24</previous></item>
+<item><country_name>Moldova</country_name><related>Inflation Rate YoY</related><last>4.3</last><previous>4.55</previous></item>
+<item><country_name>Moldova</country_name><related>Inflation Rate MoM</related><last>0.7</last><previous>0.79</previous></item>
+<item><country_name>Moldova</country_name><related>Producer Prices</related><last>206.0</last><previous>207.6</previous></item>
+<item><country_name>Moldova</country_name><related>PPI YoY</related><last>-0.7</last><previous>1.4</previous></item>
+<item><country_name>Mexico</country_name><related>Consumer Price Index CPI</related><last>133.68</last><previous>133.56</previous></item>
+<item><country_name>Mexico</country_name><related>Core Consumer Prices</related><last>132.95</last><previous>132.29</previous></item>
+<item><country_name>Mexico</country_name><related>Core Inflation Rate YoY</related><last>4.64</last><previous>4.76</previous></item>
+<item><country_name>Mexico</country_name><related>CPI Housing Utilities</related><last>121.1</last><previous>119.63</previous></item>
+<item><country_name>Mexico</country_name><related>CPI Transportation</related><last>126.73</last><previous>125.43</previous></item>
+<item><country_name>Mexico</country_name><related>Food Inflation</related><last>5.07</last><previous>7.28</previous></item>
+<item><country_name>Mexico</country_name><related>GDP Deflator</related><last>130.05</last><previous>127.69</previous></item>
+<item><country_name>Mexico</country_name><related>Inflation Rate YoY</related><last>4.4</last><previous>4.88</previous></item>
+<item><country_name>Mexico</country_name><related>Inflation Rate MoM</related><last>0.09</last><previous>0.89</previous></item>
+<item><country_name>Mexico</country_name><related>Mid-month Core Inflation Rate MoM</related><last>0.24</last><previous>0.25</previous></item>
+<item><country_name>Mexico</country_name><related>Mid-month Core Inflation Rate YoY</related><last>4.63</last><previous>4.78</previous></item>
+<item><country_name>Mexico</country_name><related>Mid-month Inflation Rate MoM</related><last>-0.1</last><previous>0.49</previous></item>
+<item><country_name>Mexico</country_name><related>Mid-month Inflation Rate YoY</related><last>4.45</last><previous>4.9</previous></item>
+<item><country_name>Mexico</country_name><related>Producer Prices</related><last>122.62</last><previous>122.23</previous></item>
+<item><country_name>Mexico</country_name><related>Producer Prices Change</related><last>1.5</last><previous>1.2</previous></item>
+<item><country_name>Mauritania</country_name><related>Consumer Price Index CPI</related><last>123.8</last><previous>123.6</previous></item>
+<item><country_name>Mauritania</country_name><related>CPI Housing Utilities</related><last>119.4</last><previous>119.0</previous></item>
+<item><country_name>Mauritania</country_name><related>CPI Transportation</related><last>125.9</last><previous>125.5</previous></item>
+<item><country_name>Mauritania</country_name><related>Food Inflation</related><last>3.1</last><previous>4.1</previous></item>
+<item><country_name>Mauritania</country_name><related>Inflation Rate</related><last>2.6</last><previous>1.8</previous></item>
+<item><country_name>Mauritania</country_name><related>Inflation Rate MoM</related><last>0.1</last><previous>0.2</previous></item>
+<item><country_name>Malta</country_name><related>Consumer Price Index CPI</related><last>117.73</last><previous>118.8</previous></item>
+<item><country_name>Malta</country_name><related>CPI Housing Utilities</related><last>128.22</last><previous>127.6</previous></item>
+<item><country_name>Malta</country_name><related>CPI Transportation</related><last>109.02</last><previous>109.47</previous></item>
+<item><country_name>Malta</country_name><related>GDP Deflator</related><last>79.36</last><previous>79.1</previous></item>
+<item><country_name>Malta</country_name><related>Harmonised Consumer Prices</related><last>118.13</last><previous>117.77</previous></item>
+<item><country_name>Malta</country_name><related>Harmonised Inflation Rate MoM</related><last>0.3</last><previous>-0.4</previous></item>
+<item><country_name>Malta</country_name><related>Harmonised Inflation Rate YoY</related><last>3.1</last><previous>3.7</previous></item>
+<item><country_name>Malta</country_name><related>Inflation Rate YoY</related><last>3.7</last><previous>3.7</previous></item>
+<item><country_name>Malta</country_name><related>Inflation Rate MoM</related><last>-0.4</last><previous>-0.2</previous></item>
+<item><country_name>Malta</country_name><related>Producer Prices</related><last>109.07</last><previous>108.14</previous></item>
+<item><country_name>Malta</country_name><related>PPI YoY</related><last>0.9</last><previous>0.9</previous></item>
+<item><country_name>Mali</country_name><related>Consumer Price Index CPI</related><last>115.6</last><previous>117.0</previous></item>
+<item><country_name>Mali</country_name><related>Core Consumer Prices</related><last>115.2</last><previous>114.3</previous></item>
+<item><country_name>Mali</country_name><related>Core Inflation Rate</related><last>2.4</last><previous>2.3</previous></item>
+<item><country_name>Mali</country_name><related>CPI Housing Utilities</related><last>101.9</last><previous>105.5</previous></item>
+<item><country_name>Mali</country_name><related>CPI Transportation</related><last>105.6</last><previous>110.7</previous></item>
+<item><country_name>Mali</country_name><related>Food Inflation</related><last>1.0</last><previous>1.0</previous></item>
+<item><country_name>Mali</country_name><related>Inflation Rate</related><last>-0.4</last><previous>0.5</previous></item>
+<item><country_name>Mali</country_name><related>Inflation Rate MoM</related><last>-1.2</last><previous>-0.3</previous></item>
+<item><country_name>Maldives</country_name><related>Consumer Price Index CPI</related><last>102.35</last><previous>102.52</previous></item>
+<item><country_name>Maldives</country_name><related>CPI Housing Utilities</related><last>100.6</last><previous>101.0</previous></item>
+<item><country_name>Maldives</country_name><related>CPI Transportation</related><last>101.5</last><previous>102.19</previous></item>
+<item><country_name>Maldives</country_name><related>Food Inflation</related><last>5.4</last><previous>-5.7</previous></item>
+<item><country_name>Maldives</country_name><related>Inflation Rate</related><last>0.88</last><previous>2.02</previous></item>
+<item><country_name>Nepal</country_name><related>Consumer Price Index CPI</related><last>164.1</last><previous>163.52</previous></item>
+<item><country_name>Nepal</country_name><related>Export Prices</related><last>116.5</last><previous>115.8</previous></item>
+<item><country_name>Nepal</country_name><related>Food Inflation</related><last>6.51</last><previous>5.77</previous></item>
+<item><country_name>Nepal</country_name><related>Import Prices</related><last>117.9</last><previous>118.6</previous></item>
+<item><country_name>Nepal</country_name><related>Inflation Rate</related><last>5.01</last><previous>5.26</previous></item>
+<item><country_name>Madagascar</country_name><related>Consumer Price Index CPI</related><last>169.0</last><previous>167.5</previous></item>
+<item><country_name>Madagascar</country_name><related>CPI Housing Utilities</related><last>153.0</last><previous>150.8</previous></item>
+<item><country_name>Madagascar</country_name><related>CPI Transportation</related><last>160.4</last><previous>159.4</previous></item>
+<item><country_name>Madagascar</country_name><related>Food Inflation</related><last>7.6</last><previous>8.8</previous></item>
+<item><country_name>Madagascar</country_name><related>Inflation Rate</related><last>7.1</last><previous>7.44</previous></item>
+<item><country_name>Madagascar</country_name><related>Inflation Rate MoM</related><last>0.93</last><previous>0.97</previous></item>
+<item><country_name>Malaysia</country_name><related>Consumer Price Index CPI</related><last>131.4</last><previous>131.2</previous></item>
+<item><country_name>Malaysia</country_name><related>Core Inflation Rate</related><last>1.8</last><previous>1.9</previous></item>
+<item><country_name>Malaysia</country_name><related>CPI Housing Utilities</related><last>126.5</last><previous>126.0</previous></item>
+<item><country_name>Malaysia</country_name><related>CPI Transportation</related><last>121.2</last><previous>121.3</previous></item>
+<item><country_name>Malaysia</country_name><related>Export Prices</related><last>147.2</last><previous>148.0</previous></item>
+<item><country_name>Malaysia</country_name><related>Food Inflation</related><last>2.0</last><previous>2.3</previous></item>
+<item><country_name>Malaysia</country_name><related>GDP Deflator</related><last>114.0</last><previous>115.0</previous></item>
+<item><country_name>Malaysia</country_name><related>Import Prices</related><last>128.5</last><previous>128.7</previous></item>
+<item><country_name>Malaysia</country_name><related>Inflation Rate YoY</related><last>1.5</last><previous>1.5</previous></item>
+<item><country_name>Malaysia</country_name><related>Inflation Rate MoM</related><last>0.2</last><previous>0.2</previous></item>
+<item><country_name>Malaysia</country_name><related>Producer Prices</related><last>117.9</last><previous>118.0</previous></item>
+<item><country_name>Malaysia</country_name><related>PPI YoY</related><last>-0.6</last><previous>-1.3</previous></item>
+<item><country_name>Malawi</country_name><related>Consumer Price Index CPI</related><last>176.03</last><previous>168.68</previous></item>
+<item><country_name>Malawi</country_name><related>CPI Housing Utilities</related><last>157.49</last><previous>152.55</previous></item>
+<item><country_name>Malawi</country_name><related>CPI Transportation</related><last>166.03</last><previous>163.8</previous></item>
+<item><country_name>Malawi</country_name><related>Food Inflation</related><last>44.9</last><previous>37.1</previous></item>
+<item><country_name>Malawi</country_name><related>Inflation Rate YoY</related><last>35.0</last><previous>34.5</previous></item>
+<item><country_name>Lithuania</country_name><related>CPI</related><last>153.1</last><previous>152.0</previous></item>
+<item><country_name>Lithuania</country_name><related>CPI Housing Utilities</related><last>168.69</last><previous>167.53</previous></item>
+<item><country_name>Lithuania</country_name><related>CPI Transportation</related><last>142.88</last><previous>139.18</previous></item>
+<item><country_name>Lithuania</country_name><related>Export Prices</related><last>95.7</last><previous>93.3</previous></item>
+<item><country_name>Lithuania</country_name><related>Food Inflation</related><last>-1.0</last><previous>-0.3</previous></item>
+<item><country_name>Lithuania</country_name><related>GDP Deflator</related><last>154.41</last><previous>151.81</previous></item>
+<item><country_name>Lithuania</country_name><related>Harmonised Consumer Prices</related><last>150.38</last><previous>149.34</previous></item>
+<item><country_name>Lithuania</country_name><related>Import Prices</related><last>90.5</last><previous>83.9</previous></item>
+<item><country_name>Lithuania</country_name><related>Inflation Rate YoY</related><last>0.7</last><previous>0.7</previous></item>
+<item><country_name>Lithuania</country_name><related>Inflation Rate MoM</related><last>0.7</last><previous>0.3</previous></item>
+<item><country_name>Lithuania</country_name><related>Producer Prices</related><last>121.6</last><previous>122.8</previous></item>
+<item><country_name>Lithuania</country_name><related>PPI YoY</related><last>-5.1</last><previous>-5.7</previous></item>
+<item><country_name>Luxembourg</country_name><related>Food Inflation</related><last>4.26</last><previous>6.39</previous></item>
+<item><country_name>Luxembourg</country_name><related>Consumer Price Index CPI</related><last>122.33</last><previous>120.61</previous></item>
+<item><country_name>Luxembourg</country_name><related>Core Consumer Prices</related><last>120.64</last><previous>119.19</previous></item>
+<item><country_name>Luxembourg</country_name><related>Core Inflation Rate</related><last>3.39</last><previous>3.98</previous></item>
+<item><country_name>Luxembourg</country_name><related>CPI Housing Utilities</related><last>122.63</last><previous>121.74</previous></item>
+<item><country_name>Luxembourg</country_name><related>CPI Transportation</related><last>119.63</last><previous>118.33</previous></item>
+<item><country_name>Luxembourg</country_name><related>GDP Deflator</related><last>128.82</last><previous>122.99</previous></item>
+<item><country_name>Luxembourg</country_name><related>Harmonised Consumer Prices</related><last>124.34</last><previous>122.31</previous></item>
+<item><country_name>Luxembourg</country_name><related>Inflation Rate YoY</related><last>3.2</last><previous>3.45</previous></item>
+<item><country_name>Luxembourg</country_name><related>Inflation Rate MoM</related><last>1.4</last><previous>-0.5</previous></item>
+<item><country_name>Luxembourg</country_name><related>Producer Prices</related><last>145.3</last><previous>146.38</previous></item>
+<item><country_name>Luxembourg</country_name><related>PPI YoY</related><last>-2.7</last><previous>-1.4</previous></item>
+<item><country_name>Macau</country_name><related>Consumer Price Index CPI</related><last>105.15</last><previous>105.33</previous></item>
+<item><country_name>Macau</country_name><related>CPI Housing Utilities</related><last>99.97</last><previous>99.82</previous></item>
+<item><country_name>Macau</country_name><related>CPI Transportation</related><last>106.14</last><previous>108.04</previous></item>
+<item><country_name>Macau</country_name><related>Export Prices</related><last>152.3</last><previous>125.4</previous></item>
+<item><country_name>Macau</country_name><related>Food Inflation</related><last>1.73</last><previous>2.39</previous></item>
+<item><country_name>Macau</country_name><related>GDP Deflator</related><last>110.2</last><previous>108.5</previous></item>
+<item><country_name>Macau</country_name><related>Import Prices</related><last>202.3</last><previous>192.2</previous></item>
+<item><country_name>Macau</country_name><related>Inflation Rate YoY</related><last>1.01</last><previous>1.42</previous></item>
+<item><country_name>Macau</country_name><related>Inflation Rate MoM</related><last>-0.17</last><previous>0.27</previous></item>
+<item><country_name>Libya</country_name><related>Consumer Price Index CPI</related><last>296.5</last><previous>296.3</previous></item>
+<item><country_name>Libya</country_name><related>CPI Housing Utilities</related><last>194.5</last><previous>194.4</previous></item>
+<item><country_name>Libya</country_name><related>CPI Transportation</related><last>215.2</last><previous>215.2</previous></item>
+<item><country_name>Libya</country_name><related>Food Inflation</related><last>2.74</last><previous>3.11</previous></item>
+<item><country_name>Libya</country_name><related>Inflation Rate</related><last>1.8</last><previous>2.0</previous></item>
+<item><country_name>Libya</country_name><related>Inflation Rate MoM</related><last>0.1</last><previous>0.1</previous></item>
+<item><country_name>Liberia</country_name><related>CPI Housing Utilities</related><last>298.53</last><previous>300.85</previous></item>
+<item><country_name>Liberia</country_name><related>CPI Transportation</related><last>1298.53</last><previous>1299.47</previous></item>
+<item><country_name>Liberia</country_name><related>Food Inflation</related><last>16.86</last><previous>23.49</previous></item>
+<item><country_name>Liberia</country_name><related>Inflation Rate</related><last>10.14</last><previous>9.96</previous></item>
+<item><country_name>Liberia</country_name><related>Inflation Rate MoM</related><last>0.05</last><previous>-1.32</previous></item>
+<item><country_name>Lesotho</country_name><related>Consumer Price Index CPI</related><last>111.14</last><previous>110.16</previous></item>
+<item><country_name>Lesotho</country_name><related>CPI Housing Utilities</related><last>107.34</last><previous>107.47</previous></item>
+<item><country_name>Lesotho</country_name><related>CPI Transportation</related><last>104.78</last><previous>106.1</previous></item>
+<item><country_name>Lesotho</country_name><related>Food Inflation</related><last>11.7</last><previous>10.3</previous></item>
+<item><country_name>Lesotho</country_name><related>Inflation Rate</related><last>8.2</last><previous>7.2</previous></item>
+<item><country_name>Lesotho</country_name><related>Inflation Rate MoM</related><last>0.9</last><previous>0.9</previous></item>
+<item><country_name>Netherlands</country_name><related>CPI</related><last>127.95</last><previous>127.11</previous></item>
+<item><country_name>Netherlands</country_name><related>Core Consumer Prices</related><last>121.58</last><previous>120.77</previous></item>
+<item><country_name>Netherlands</country_name><related>Core Inflation Rate</related><last>2.92</last><previous>3.4</previous></item>
+<item><country_name>Netherlands</country_name><related>CPI Housing Utilities</related><last>130.63</last><previous>130.76</previous></item>
+<item><country_name>Netherlands</country_name><related>CPI Transportation</related><last>131.02</last><previous>130.73</previous></item>
+<item><country_name>Netherlands</country_name><related>Export Prices</related><last>123.9</last><previous>123.8</previous></item>
+<item><country_name>Netherlands</country_name><related>Food Inflation</related><last>0.8</last><previous>2.5</previous></item>
+<item><country_name>Netherlands</country_name><related>GDP Deflator</related><last>128.8</last><previous>129.7</previous></item>
+<item><country_name>Netherlands</country_name><related>Harmonised Consumer Prices</related><last>129.29</last><previous>128.08</previous></item>
+<item><country_name>Netherlands</country_name><related>Import Prices</related><last>117.3</last><previous>121.5</previous></item>
+<item><country_name>Netherlands</country_name><related>Inflation Rate YoY Prel</related><last>2.8</last><previous>3.2</previous></item>
+<item><country_name>Netherlands</country_name><related>Inflation Rate MoM</related><last>0.7</last><previous>0.5</previous></item>
+<item><country_name>Netherlands</country_name><related>Producer Prices</related><last>135.0</last><previous>136.5</previous></item>
+<item><country_name>Netherlands</country_name><related>Producer Prices Change</related><last>-2.5</last><previous>-3.6</previous></item>
+<item><country_name>Lebanon</country_name><related>Consumer Price Index CPI</related><last>6149.46</last><previous>5978.13</previous></item>
+<item><country_name>Lebanon</country_name><related>CPI Housing Utilities</related><last>1293.28</last><previous>1226.25</previous></item>
+<item><country_name>Lebanon</country_name><related>CPI Transportation</related><last>10366.53</last><previous>10306.21</previous></item>
+<item><country_name>Lebanon</country_name><related>Food Inflation</related><last>180.96</last><previous>207.6</previous></item>
+<item><country_name>Lebanon</country_name><related>Inflation Rate YoY</related><last>177.25</last><previous>192.26</previous></item>
+<item><country_name>Lebanon</country_name><related>Inflation Rate MoM</related><last>2.87</last><previous>0.02</previous></item>
+<item><country_name>Macedonia</country_name><related>Food Inflation</related><last>1.47</last><previous>1.9</previous></item>
+<item><country_name>Macedonia</country_name><related>Consumer Price Index CPI</related><last>149.0</last><previous>149.52</previous></item>
+<item><country_name>Macedonia</country_name><related>Core Consumer Prices</related><last>146.72</last><previous>146.46</previous></item>
+<item><country_name>Macedonia</country_name><related>Core Inflation Rate</related><last>2.67</last><previous>3.11</previous></item>
+<item><country_name>Macedonia</country_name><related>GDP Deflator</related><last>108.0</last><previous>103.6</previous></item>
+<item><country_name>Macedonia</country_name><related>Inflation Rate YoY</related><last>3.0</last><previous>3.2</previous></item>
+<item><country_name>Macedonia</country_name><related>Inflation Rate MoM</related><last>0.4</last><previous>-0.3</previous></item>
+<item><country_name>Macedonia</country_name><related>Producer Prices</related><last>138.8</last><previous>135.9</previous></item>
+<item><country_name>Macedonia</country_name><related>PPI YoY</related><last>-2.9</last><previous>-2.8</previous></item>
+<item><country_name>Latvia</country_name><related>Food Inflation</related><last>1.5</last><previous>2.9</previous></item>
+<item><country_name>Latvia</country_name><related>CPI</related><last>143.4</last><previous>143.3</previous></item>
+<item><country_name>Latvia</country_name><related>CPI Housing Utilities</related><last>157.4</last><previous>158.7</previous></item>
+<item><country_name>Latvia</country_name><related>CPI Transportation</related><last>132.1</last><previous>128.7</previous></item>
+<item><country_name>Latvia</country_name><related>Export Prices</related><last>131.2</last><previous>131.9</previous></item>
+<item><country_name>Latvia</country_name><related>GDP Deflator</related><last>1.39</last><previous>1.41</previous></item>
+<item><country_name>Latvia</country_name><related>Import Prices</related><last>113.7</last><previous>114.6</previous></item>
+<item><country_name>Latvia</country_name><related>Inflation Rate YoY</related><last>0.4</last><previous>0.9</previous></item>
+<item><country_name>Latvia</country_name><related>Inflation Rate MoM</related><last>0.1</last><previous>0.8</previous></item>
+<item><country_name>Latvia</country_name><related>Producer Prices</related><last>151.6</last><previous>150.9</previous></item>
+<item><country_name>Latvia</country_name><related>PPI YoY</related><last>-8.1</last><previous>-11.3</previous></item>
+<item><country_name>Laos</country_name><related>Consumer Price Index CPI</related><last>215.95</last><previous>211.5</previous></item>
+<item><country_name>Laos</country_name><related>Food Inflation</related><last>25.49</last><previous>25.26</previous></item>
+<item><country_name>Laos</country_name><related>Inflation Rate</related><last>25.35</last><previous>24.44</previous></item>
+<item><country_name>Laos</country_name><related>Inflation Rate MoM</related><last>2.11</last><previous>1.49</previous></item>
+<item><country_name>Kyrgyzstan</country_name><related>Consumer Price Index CPI</related><last>403.5</last><previous>400.5</previous></item>
+<item><country_name>Kyrgyzstan</country_name><related>Core Inflation Rate</related><last>6.3</last><previous>6.2</previous></item>
+<item><country_name>Kyrgyzstan</country_name><related>CPI Housing Utilities</related><last>403.9</last><previous>403.8</previous></item>
+<item><country_name>Kyrgyzstan</country_name><related>CPI Transportation</related><last>332.4</last><previous>314.9</previous></item>
+<item><country_name>Kyrgyzstan</country_name><related>Food Inflation</related><last>0.4</last><previous>2.0</previous></item>
+<item><country_name>Kyrgyzstan</country_name><related>Inflation Rate YoY</related><last>5.1</last><previous>5.9</previous></item>
+<item><country_name>Kyrgyzstan</country_name><related>Inflation Rate MoM</related><last>0.7</last><previous>0.2</previous></item>
+<item><country_name>Kyrgyzstan</country_name><related>Producer Prices</related><last>258.5</last><previous>256.2</previous></item>
+<item><country_name>Kyrgyzstan</country_name><related>PPI YoY</related><last>7.93</last><previous>10.0</previous></item>
+<item><country_name>Kenya</country_name><related>Consumer Price Index CPI</related><last>138.34</last><previous>138.15</previous></item>
+<item><country_name>Kenya</country_name><related>Food Inflation</related><last>6.9</last><previous>7.9</previous></item>
+<item><country_name>Kenya</country_name><related>Inflation Rate YoY</related><last>6.3</last><previous>6.9</previous></item>
+<item><country_name>Kenya</country_name><related>Inflation Rate MoM</related><last>0.1</last><previous>0.4</previous></item>
+<item><country_name>Kenya</country_name><related>Producer Prices</related><last>145.92</last><previous>140.35</previous></item>
+<item><country_name>Kenya</country_name><related>PPI YoY</related><last>10.49</last><previous>9.83</previous></item>
+<item><country_name>Kazakhstan</country_name><related>CPI Transportation</related><last>116.3</last><previous>115.4</previous></item>
+<item><country_name>Kazakhstan</country_name><related>Export Prices</related><last>108.3</last><previous>109.4</previous></item>
+<item><country_name>Kazakhstan</country_name><related>Food Inflation</related><last>7.4</last><previous>8.2</previous></item>
+<item><country_name>Kazakhstan</country_name><related>Import Prices</related><last>101.3</last><previous>103.3</previous></item>
+<item><country_name>Kazakhstan</country_name><related>Inflation Rate YoY</related><last>9.3</last><previous>9.5</previous></item>
+<item><country_name>Kazakhstan</country_name><related>Inflation Rate MoM</related><last>1.1</last><previous>0.8</previous></item>
+<item><country_name>Kuwait</country_name><related>Consumer Price Index CPI</related><last>132.1</last><previous>131.9</previous></item>
+<item><country_name>Kuwait</country_name><related>CPI Transportation</related><last>142.7</last><previous>143.1</previous></item>
+<item><country_name>Kuwait</country_name><related>Food Inflation</related><last>4.8</last><previous>4.74</previous></item>
+<item><country_name>Kuwait</country_name><related>Inflation Rate YoY</related><last>3.3</last><previous>3.37</previous></item>
+<item><country_name>Kuwait</country_name><related>Inflation Rate MoM</related><last>0.2</last><previous>0.3</previous></item>
+<item><country_name>Japan</country_name><related>Food Inflation</related><last>5.7</last><previous>6.7</previous></item>
+<item><country_name>Japan</country_name><related>Goods Inflation</related><last>2.1</last><previous>2.8</previous></item>
+<item><country_name>Japan</country_name><related>Rent Inflation</related><last>0.2</last><previous>0.1</previous></item>
+<item><country_name>Japan</country_name><related>Services Inflation</related><last>2.2</last><previous>2.3</previous></item>
+<item><country_name>Japan</country_name><related>Core Inflation Rate YoY</related><last>2.0</last><previous>2.3</previous></item>
+<item><country_name>Japan</country_name><related>Inflation Rate Ex-Food and Energy YoY</related><last>3.5</last><previous>3.7</previous></item>
+<item><country_name>Japan</country_name><related>CPI Transportation</related><last>97.2</last><previous>97.1</previous></item>
+<item><country_name>Japan</country_name><related>Inflation Rate YoY</related><last>2.2</last><previous>2.6</previous></item>
+<item><country_name>Japan</country_name><related>Inflation Rate MoM</related><last>0.0</last><previous>0.1</previous></item>
+<item><country_name>Japan</country_name><related>Tokyo CPI YoY</related><last>2.6</last><previous>1.6</previous></item>
+<item><country_name>Ivory Coast</country_name><related>Consumer Price Index CPI</related><last>122.9</last><previous>124.0</previous></item>
+<item><country_name>Ivory Coast</country_name><related>CPI Housing Utilities</related><last>126.8</last><previous>126.5</previous></item>
+<item><country_name>Ivory Coast</country_name><related>CPI Transportation</related><last>121.3</last><previous>121.9</previous></item>
+<item><country_name>Ivory Coast</country_name><related>Food Inflation</related><last>4.5</last><previous>6.7</previous></item>
+<item><country_name>Ivory Coast</country_name><related>Inflation Rate YoY</related><last>3.1</last><previous>3.9</previous></item>
+<item><country_name>Ivory Coast</country_name><related>Inflation Rate MoM</related><last>-0.9</last><previous>0.9</previous></item>
+<item><country_name>Jamaica</country_name><related>Consumer Price Index CPI</related><last>136.6</last><previous>136.7</previous></item>
+<item><country_name>Jamaica</country_name><related>CPI Housing Utilities</related><last>125.6</last><previous>124.6</previous></item>
+<item><country_name>Jamaica</country_name><related>CPI Transportation</related><last>129.4</last><previous>130.9</previous></item>
+<item><country_name>Jamaica</country_name><related>Food Inflation</related><last>8.9</last><previous>8.75</previous></item>
+<item><country_name>Jamaica</country_name><related>Inflation Rate YoY</related><last>7.4</last><previous>6.9</previous></item>
+<item><country_name>Jamaica</country_name><related>Inflation Rate MoM</related><last>-0.1</last><previous>0.5</previous></item>
+<item><country_name>Italy</country_name><related>Energy Inflation</related><last>-17.3</last><previous>-21.2</previous></item>
+<item><country_name>Italy</country_name><related>Food Inflation</related><last>3.9</last><previous>5.8</previous></item>
+<item><country_name>Italy</country_name><related>Services Inflation</related><last>2.9</last><previous>2.9</previous></item>
+<item><country_name>Italy</country_name><related>CPI Prel</related><last>120.2</last><previous>120.1</previous></item>
+<item><country_name>Italy</country_name><related>Core Consumer Prices</related><last>114.2</last><previous>114.0</previous></item>
+<item><country_name>Italy</country_name><related>Core Inflation Rate</related><last>2.33</last><previous>2.7</previous></item>
+<item><country_name>Italy</country_name><related>CPI Housing Utilities</related><last>144.0</last><previous>146.9</previous></item>
+<item><country_name>Italy</country_name><related>CPI Transportation</related><last>123.5</last><previous>121.8</previous></item>
+<item><country_name>Italy</country_name><related>Export Prices</related><last>127.6</last><previous>126.8</previous></item>
+<item><country_name>Italy</country_name><related>GDP Deflator</related><last>117.6</last><previous>116.97</previous></item>
+<item><country_name>Italy</country_name><related>Harmonised Consumer Prices</related><last>120.4</last><previous>120.4</previous></item>
+<item><country_name>Italy</country_name><related>Import Prices</related><last>121.1</last><previous>120.9</previous></item>
+<item><country_name>Italy</country_name><related>Inflation Rate YoY</related><last>0.75</last><previous>0.84</previous></item>
+<item><country_name>Italy</country_name><related>Inflation Rate MoM</related><last>0.1</last><previous>0.3</previous></item>
+<item><country_name>Italy</country_name><related>Producer Prices</related><last>121.5</last><previous>123.6</previous></item>
+<item><country_name>Italy</country_name><related>PPI YoY</related><last>-10.7</last><previous>-16.0</previous></item>
+<item><country_name>Mauritius</country_name><related>Consumer Price Index CPI</related><last>138.62</last><previous>135.16</previous></item>
+<item><country_name>Mauritius</country_name><related>Core Inflation Rate</related><last>3.4</last><previous>3.5</previous></item>
+<item><country_name>Mauritius</country_name><related>CPI Housing Utilities</related><last>111.32</last><previous>111.32</previous></item>
+<item><country_name>Mauritius</country_name><related>CPI Transportation</related><last>138.89</last><previous>140.74</previous></item>
+<item><country_name>Mauritius</country_name><related>Export Prices</related><last>156.7</last><previous>156.0</previous></item>
+<item><country_name>Mauritius</country_name><related>Food Inflation</related><last>15.2</last><previous>9.5</previous></item>
+<item><country_name>Mauritius</country_name><related>Inflation Rate YoY</related><last>6.2</last><previous>5.2</previous></item>
+<item><country_name>Mauritius</country_name><related>Inflation Rate MoM</related><last>2.5</last><previous>2.4</previous></item>
+<item><country_name>Mauritius</country_name><related>Producer Prices</related><last>149.9</last><previous>149.5</previous></item>
+<item><country_name>Mauritius</country_name><related>Producer Prices Change</related><last>0.9</last><previous>1.1</previous></item>
+<item><country_name>Morocco</country_name><related>Consumer Price Index CPI</related><last>117.5</last><previous>118.2</previous></item>
+<item><country_name>Morocco</country_name><related>Core Inflation Rate</related><last>2.9</last><previous>3.4</previous></item>
+<item><country_name>Morocco</country_name><related>CPI Housing Utilities</related><last>105.1</last><previous>105.1</previous></item>
+<item><country_name>Morocco</country_name><related>CPI Transportation</related><last>120.5</last><previous>121.3</previous></item>
+<item><country_name>Morocco</country_name><related>Food Inflation</related><last>4.3</last><previous>6.8</previous></item>
+<item><country_name>Morocco</country_name><related>Inflation Rate YoY</related><last>2.3</last><previous>3.4</previous></item>
+<item><country_name>Morocco</country_name><related>Inflation Rate MoM</related><last>-0.6</last><previous>-0.1</previous></item>
+<item><country_name>Morocco</country_name><related>Producer Prices</related><last>119.2</last><previous>119.3</previous></item>
+<item><country_name>Liechtenstein</country_name><related>Inflation Rate</related><last>1.2</last><previous>1.7</previous></item>
+<item><country_name>Kosovo</country_name><related>Consumer Price Index CPI</related><last>130.4</last><previous>130.2</previous></item>
+<item><country_name>Kosovo</country_name><related>CPI Housing Utilities</related><last>128.2</last><previous>129.3</previous></item>
+<item><country_name>Kosovo</country_name><related>CPI Transportation</related><last>121.9</last><previous>121.2</previous></item>
+<item><country_name>Kosovo</country_name><related>Food Inflation</related><last>1.5</last><previous>2.4</previous></item>
+<item><country_name>Kosovo</country_name><related>Import Prices</related><last>161.8</last><previous>163.4</previous></item>
+<item><country_name>Kosovo</country_name><related>Inflation Rate YoY</related><last>2.2</last><previous>1.8</previous></item>
+<item><country_name>Kosovo</country_name><related>Inflation Rate MoM</related><last>0.15</last><previous>0.31</previous></item>
+<item><country_name>Kosovo</country_name><related>Producer Prices</related><last>129.6</last><previous>127.8</previous></item>
+<item><country_name>Kosovo</country_name><related>PPI YoY</related><last>2.7</last><previous>-12.6</previous></item>
+<item><country_name>Iraq</country_name><related>Core Consumer Prices</related><last>125.2</last><previous>124.7</previous></item>
+<item><country_name>Iraq</country_name><related>Core Inflation Rate</related><last>4.5</last><previous>4.6</previous></item>
+<item><country_name>Iraq</country_name><related>CPI Housing Utilities</related><last>121.6</last><previous>121.3</previous></item>
+<item><country_name>Iraq</country_name><related>CPI Transportation</related><last>121.5</last><previous>120.0</previous></item>
+<item><country_name>Iraq</country_name><related>Food Inflation</related><last>4.42</last><previous>4.14</previous></item>
+<item><country_name>Iraq</country_name><related>Inflation Rate</related><last>3.97</last><previous>3.98</previous></item>
+<item><country_name>Jordan</country_name><related>Rent Inflation</related><last>4.1</last><previous>3.25</previous></item>
+<item><country_name>Jordan</country_name><related>Consumer Price Index CPI</related><last>109.7</last><previous>109.8</previous></item>
+<item><country_name>Jordan</country_name><related>CPI Housing Utilities</related><last>114.9</last><previous>115.0</previous></item>
+<item><country_name>Jordan</country_name><related>CPI Transportation</related><last>110.59</last><previous>111.46</previous></item>
+<item><country_name>Jordan</country_name><related>Export Prices</related><last>227.0</last><previous>222.1</previous></item>
+<item><country_name>Jordan</country_name><related>Food Inflation</related><last>2.2</last><previous>1.8</previous></item>
+<item><country_name>Jordan</country_name><related>Import Prices</related><last>298.8</last><previous>323.1</previous></item>
+<item><country_name>Jordan</country_name><related>Inflation Rate YoY</related><last>1.6</last><previous>1.95</previous></item>
+<item><country_name>Jordan</country_name><related>Inflation Rate MoM</related><last>0.3</last><previous>-0.09</previous></item>
+<item><country_name>Jordan</country_name><related>Producer Prices</related><last>106.9</last><previous>107.3</previous></item>
+<item><country_name>Jordan</country_name><related>PPI YoY</related><last>-1.38</last><previous>-2.1</previous></item>
+<item><country_name>Israel</country_name><related>Consumer Price Index CPI</related><last>105.4</last><previous>105.0</previous></item>
+<item><country_name>Israel</country_name><related>Core Consumer Prices</related><last>105.2</last><previous>104.9</previous></item>
+<item><country_name>Israel</country_name><related>Core Inflation Rate</related><last>2.53</last><previous>2.74</previous></item>
+<item><country_name>Israel</country_name><related>CPI Housing Utilities</related><last>106.9</last><previous>107.2</previous></item>
+<item><country_name>Israel</country_name><related>CPI Transportation</related><last>108.1</last><previous>107.4</previous></item>
+<item><country_name>Israel</country_name><related>Export Prices</related><last>107.5</last><previous>107.0</previous></item>
+<item><country_name>Israel</country_name><related>Food Inflation</related><last>5.25</last><previous>5.22</previous></item>
+<item><country_name>Israel</country_name><related>GDP Deflator</related><last>117.25</last><previous>116.38</previous></item>
+<item><country_name>Israel</country_name><related>Import Prices</related><last>117.2</last><previous>117.9</previous></item>
+<item><country_name>Israel</country_name><related>Inflation Rate YoY</related><last>2.5</last><previous>2.6</previous></item>
+<item><country_name>Israel</country_name><related>Inflation Rate MoM</related><last>0.4</last><previous>0.0</previous></item>
+<item><country_name>Israel</country_name><related>Producer Prices</related><last>122.3</last><previous>121.9</previous></item>
+<item><country_name>Iran</country_name><related>Consumer Price Index CPI</related><last>225.7</last><previous>222.7</previous></item>
+<item><country_name>Iran</country_name><related>CPI Housing Utilities</related><last>211.5</last><previous>205.8</previous></item>
+<item><country_name>Iran</country_name><related>CPI Transportation</related><last>206.8</last><previous>201.0</previous></item>
+<item><country_name>Iran</country_name><related>Export Prices</related><last>178.7</last><previous>183.3</previous></item>
+<item><country_name>Iran</country_name><related>Food Inflation</related><last>31.6</last><previous>38.9</previous></item>
+<item><country_name>Iran</country_name><related>Import Prices</related><last>453.5</last><previous>434.3</previous></item>
+<item><country_name>Iran</country_name><related>Inflation Rate YoY</related><last>35.8</last><previous>38.5</previous></item>
+<item><country_name>Iran</country_name><related>Inflation Rate MoM</related><last>1.4</last><previous>2.6</previous></item>
+<item><country_name>Iran</country_name><related>Producer Prices</related><last>975.2</last><previous>892.0</previous></item>
+<item><country_name>Indonesia</country_name><related>Consumer Price Index CPI</related><last>105.58</last><previous>105.19</previous></item>
+<item><country_name>Indonesia</country_name><related>Core Consumer Prices</related><last>103.37</last><previous>103.23</previous></item>
+<item><country_name>Indonesia</country_name><related>Core Inflation Rate YoY</related><last>1.68</last><previous>1.68</previous></item>
+<item><country_name>Indonesia</country_name><related>CPI Housing Utilities</related><last>102.2</last><previous>102.14</previous></item>
+<item><country_name>Indonesia</country_name><related>CPI Transportation</related><last>109.04</last><previous>108.85</previous></item>
+<item><country_name>Indonesia</country_name><related>Export Prices</related><last>187.1</last><previous>185.5</previous></item>
+<item><country_name>Indonesia</country_name><related>Food Inflation</related><last>6.36</last><previous>5.84</previous></item>
+<item><country_name>Indonesia</country_name><related>GDP Deflator</related><last>168.92</last><previous>169.44</previous></item>
+<item><country_name>Indonesia</country_name><related>Import Prices</related><last>174.1</last><previous>175.18</previous></item>
+<item><country_name>Indonesia</country_name><related>Inflation Rate YoY</related><last>2.75</last><previous>2.57</previous></item>
+<item><country_name>Indonesia</country_name><related>Inflation Rate MoM</related><last>0.37</last><previous>0.04</previous></item>
+<item><country_name>Indonesia</country_name><related>Producer Prices</related><last>118.6</last><previous>117.74</previous></item>
+<item><country_name>Indonesia</country_name><related>Producer Prices Change</related><last>3.23</last><previous>2.8</previous></item>
+<item><country_name>Hong Kong</country_name><related>Consumer Price Index CPI</related><last>106.6</last><previous>106.7</previous></item>
+<item><country_name>Hong Kong</country_name><related>CPI Transportation</related><last>107.3</last><previous>107.9</previous></item>
+<item><country_name>Hong Kong</country_name><related>Export Prices</related><last>113.8</last><previous>114.4</previous></item>
+<item><country_name>Hong Kong</country_name><related>Food Inflation</related><last>1.0</last><previous>2.3</previous></item>
+<item><country_name>Hong Kong</country_name><related>GDP Deflator</related><last>106.0</last><previous>106.5</previous></item>
+<item><country_name>Hong Kong</country_name><related>Import Prices</related><last>115.2</last><previous>113.8</previous></item>
+<item><country_name>Hong Kong</country_name><related>Inflation Rate YoY</related><last>1.7</last><previous>2.4</previous></item>
+<item><country_name>Hong Kong</country_name><related>Inflation Rate MoM</related><last>-0.1</last><previous>0.1</previous></item>
+<item><country_name>Hong Kong</country_name><related>Producer Prices</related><last>113.8</last><previous>114.8</previous></item>
+<item><country_name>Hong Kong</country_name><related>Producer Prices Change</related><last>2.7</last><previous>3.0</previous></item>
+<item><country_name>Haiti</country_name><related>Consumer Price Index CPI</related><last>362.5</last><previous>358.6</previous></item>
+<item><country_name>Haiti</country_name><related>Food Inflation</related><last>28.3</last><previous>28.1</previous></item>
+<item><country_name>Haiti</country_name><related>Inflation Rate</related><last>20.9</last><previous>21.2</previous></item>
+<item><country_name>Haiti</country_name><related>Inflation Rate MoM</related><last>1.1</last><previous>2.9</previous></item>
+<item><country_name>Iceland</country_name><related>CPI</related><last>615.4</last><previous>607.3</previous></item>
+<item><country_name>Iceland</country_name><related>Core Consumer Prices</related><last>342.9</last><previous>338.1</previous></item>
+<item><country_name>Iceland</country_name><related>Core Inflation Rate</related><last>6.76</last><previous>6.79</previous></item>
+<item><country_name>Iceland</country_name><related>CPI Housing Utilities</related><last>671.8</last><previous>663.1</previous></item>
+<item><country_name>Iceland</country_name><related>CPI Transportation</related><last>187.72</last><previous>186.68</previous></item>
+<item><country_name>Iceland</country_name><related>Food Inflation</related><last>7.5</last><previous>8.9</previous></item>
+<item><country_name>Iceland</country_name><related>GDP Deflator</related><last>141.13</last><previous>133.27</previous></item>
+<item><country_name>Iceland</country_name><related>Inflation Rate YoY</related><last>6.6</last><previous>6.7</previous></item>
+<item><country_name>Iceland</country_name><related>Inflation Rate MoM</related><last>1.3</last><previous>-0.2</previous></item>
+<item><country_name>Iceland</country_name><related>Producer Prices</related><last>276.5</last><previous>277.6</previous></item>
+<item><country_name>Iceland</country_name><related>PPI YoY</related><last>-5.9</last><previous>-3.9</previous></item>
+<item><country_name>Hungary</country_name><related>Food Inflation</related><last>-0.6</last><previous>1.0</previous></item>
+<item><country_name>Hungary</country_name><related>CPI</related><last>1955.5</last><previous>1942.4</previous></item>
+<item><country_name>Hungary</country_name><related>Core Consumer Prices</related><last>603.1</last><previous>602.2</previous></item>
+<item><country_name>Hungary</country_name><related>Core Inflation Rate YoY</related><last>5.1</last><previous>6.1</previous></item>
+<item><country_name>Hungary</country_name><related>CPI Transportation</related><last>99.6</last><previous>95.2</previous></item>
+<item><country_name>Hungary</country_name><related>Export Prices</related><last>93.1</last><previous>92.7</previous></item>
+<item><country_name>Hungary</country_name><related>GDP Deflator</related><last>184.9</last><previous>173.45</previous></item>
+<item><country_name>Hungary</country_name><related>Import Prices</related><last>86.0</last><previous>84.8</previous></item>
+<item><country_name>Hungary</country_name><related>Inflation Rate YoY</related><last>3.7</last><previous>3.8</previous></item>
+<item><country_name>Hungary</country_name><related>Inflation Rate MoM</related><last>0.7</last><previous>0.7</previous></item>
+<item><country_name>Hungary</country_name><related>Producer Prices</related><last>139.3</last><previous>139.0</previous></item>
+<item><country_name>Hungary</country_name><related>PPI YoY</related><last>-6.8</last><previous>-7.2</previous></item>
+<item><country_name>Guinea Bissau</country_name><related>Inflation Rate</related><last>3.1</last><previous>3.1</previous></item>
+<item><country_name>Ireland</country_name><related>CPI</related><last>99.7</last><previous>98.7</previous></item>
+<item><country_name>Ireland</country_name><related>Core Consumer Prices</related><last>99.7</last><previous>98.6</previous></item>
+<item><country_name>Ireland</country_name><related>Core Inflation Rate</related><last>4.62</last><previous>5.34</previous></item>
+<item><country_name>Ireland</country_name><related>CPI Housing Utilities</related><last>100.2</last><previous>100.0</previous></item>
+<item><country_name>Ireland</country_name><related>CPI Transportation</related><last>98.8</last><previous>95.9</previous></item>
+<item><country_name>Ireland</country_name><related>Export Prices</related><last>103.1</last><previous>103.4</previous></item>
+<item><country_name>Ireland</country_name><related>Food Inflation</related><last>4.0</last><previous>4.6</previous></item>
+<item><country_name>Ireland</country_name><related>Harmonised Consumer Prices</related><last>118.5</last><previous>117.2</previous></item>
+<item><country_name>Ireland</country_name><related>Import Prices</related><last>106.1</last><previous>111.0</previous></item>
+<item><country_name>Ireland</country_name><related>Inflation Rate YoY</related><last>3.4</last><previous>4.1</previous></item>
+<item><country_name>Ireland</country_name><related>Inflation Rate MoM</related><last>1.0</last><previous>-1.3</previous></item>
+<item><country_name>Ireland</country_name><related>Producer Prices</related><last>88.6</last><previous>87.4</previous></item>
+<item><country_name>Ireland</country_name><related>Wholesale Prices YoY</related><last>2.2</last><previous>2.1</previous></item>
+<item><country_name>Guinea</country_name><related>Consumer Price Index CPI</related><last>155.1</last><previous>153.2</previous></item>
+<item><country_name>Guinea</country_name><related>Core Consumer Prices</related><last>136.8</last><previous>136.8</previous></item>
+<item><country_name>Guinea</country_name><related>Core Inflation Rate</related><last>3.7</last><previous>1.7</previous></item>
+<item><country_name>Guinea</country_name><related>CPI Housing Utilities</related><last>185.9</last><previous>181.4</previous></item>
+<item><country_name>Guinea</country_name><related>CPI Transportation</related><last>140.3</last><previous>140.2</previous></item>
+<item><country_name>Guinea</country_name><related>Food Inflation</related><last>14.9</last><previous>14.4</previous></item>
+<item><country_name>Guinea</country_name><related>Inflation Rate</related><last>9.3</last><previous>9.27</previous></item>
+<item><country_name>Guinea</country_name><related>Inflation Rate MoM</related><last>1.5</last><previous>0.4</previous></item>
+<item><country_name>Guatemala</country_name><related>Consumer Price Index CPI</related><last>100.17</last><previous>100.03</previous></item>
+<item><country_name>Guatemala</country_name><related>CPI Housing Utilities</related><last>99.37</last><previous>99.44</previous></item>
+<item><country_name>Guatemala</country_name><related>CPI Transportation</related><last>102.23</last><previous>100.71</previous></item>
+<item><country_name>Guatemala</country_name><related>Food Inflation</related><last>4.88</last><previous>7.25</previous></item>
+<item><country_name>Guatemala</country_name><related>Inflation Rate</related><last>3.3</last><previous>3.82</previous></item>
+<item><country_name>Guatemala</country_name><related>Inflation Rate MoM</related><last>0.14</last><previous>0.03</previous></item>
+<item><country_name>Ghana</country_name><related>Consumer Price Index CPI</related><last>207.79</last><previous>204.55</previous></item>
+<item><country_name>Ghana</country_name><related>CPI Housing Utilities</related><last>243.2</last><previous>241.79</previous></item>
+<item><country_name>Ghana</country_name><related>CPI Transportation</related><last>195.22</last><previous>194.53</previous></item>
+<item><country_name>Ghana</country_name><related>Inflation Rate YoY</related><last>23.2</last><previous>23.5</previous></item>
+<item><country_name>Ghana</country_name><related>Inflation Rate MoM</related><last>1.58</last><previous>2.0</previous></item>
+<item><country_name>Georgia</country_name><related>Consumer Price Index CPI</related><last>178.1</last><previous>178.2</previous></item>
+<item><country_name>Georgia</country_name><related>Core Inflation Rate</related><last>1.4</last><previous>2.0</previous></item>
+<item><country_name>Georgia</country_name><related>CPI Housing Utilities</related><last>99.48</last><previous>96.36</previous></item>
+<item><country_name>Georgia</country_name><related>CPI Transportation</related><last>98.96</last><previous>99.38</previous></item>
+<item><country_name>Georgia</country_name><related>Export Prices</related><last>101.2</last><previous>97.7</previous></item>
+<item><country_name>Georgia</country_name><related>Food Inflation</related><last>-3.5</last><previous>-2.4</previous></item>
+<item><country_name>Georgia</country_name><related>GDP Deflator</related><last>103.2</last><previous>104.7</previous></item>
+<item><country_name>Georgia</country_name><related>Harmonised Inflation Rate MoM</related><last>0.1</last><previous>0.2</previous></item>
+<item><country_name>Georgia</country_name><related>Harmonised Inflation Rate YoY</related><last>0.0</last><previous>-0.2</previous></item>
+<item><country_name>Georgia</country_name><related>Import Prices</related><last>99.5</last><previous>98.8</previous></item>
+<item><country_name>Georgia</country_name><related>Inflation Rate YoY</related><last>0.3</last><previous>0.0</previous></item>
+<item><country_name>Georgia</country_name><related>Inflation Rate MoM</related><last>-0.04</last><previous>0.3</previous></item>
+<item><country_name>Georgia</country_name><related>Producer Prices</related><last>225.5</last><previous>221.8</previous></item>
+<item><country_name>Georgia</country_name><related>PPI YoY</related><last>-0.7</last><previous>-1.3</previous></item>
+<item><country_name>Germany</country_name><related>Baden Wuerttemberg CPI YoY</related><last>2.7</last><previous>3.2</previous></item>
+<item><country_name>Germany</country_name><related>Bavaria CPI MoM</related><last>2.6</last><previous>2.9</previous></item>
+<item><country_name>Germany</country_name><related>Brandenburg CPI YoY</related><last>3.5</last><previous>3.7</previous></item>
+<item><country_name>Germany</country_name><related>Energy Inflation</related><last>-2.37</last><previous>-2.83</previous></item>
+<item><country_name>Germany</country_name><related>Food Inflation</related><last>1.62</last><previous>4.17</previous></item>
+<item><country_name>Germany</country_name><related>Hesse CPI YoY</related><last>2.1</last><previous>2.2</previous></item>
+<item><country_name>Germany</country_name><related>North Rhine Westphalia CPI YoY</related><last>2.6</last><previous>3.0</previous></item>
+<item><country_name>Germany</country_name><related>Saxony CPI YoY</related><last>3.0</last><previous>3.5</previous></item>
+<item><country_name>Germany</country_name><related>Services Inflation</related><last>3.43</last><previous>3.35</previous></item>
+<item><country_name>Germany</country_name><related>CPI</related><last>118.1</last><previous>117.6</previous></item>
+<item><country_name>Germany</country_name><related>Core Consumer Prices</related><last>113.5</last><previous>112.9</previous></item>
+<item><country_name>Germany</country_name><related>Core Inflation Rate</related><last>3.37</last><previous>3.39</previous></item>
+<item><country_name>Germany</country_name><related>CPI Housing Utilities</related><last>115.3</last><previous>115.2</previous></item>
+<item><country_name>Germany</country_name><related>CPI Transportation</related><last>123.7</last><previous>122.6</previous></item>
+<item><country_name>Germany</country_name><related>Export Prices</related><last>122.0</last><previous>122.2</previous></item>
+<item><country_name>Germany</country_name><related>Import Prices</related><last>125.5</last><previous>126.9</previous></item>
+<item><country_name>Germany</country_name><related>Inflation Rate YoY</related><last>2.5</last><previous>2.9</previous></item>
+<item><country_name>Germany</country_name><related>Inflation Rate MoM</related><last>0.4</last><previous>0.2</previous></item>
+<item><country_name>Germany</country_name><related>PPI MoM</related><last>0.2</last><previous>-0.8</previous></item>
+<item><country_name>Germany</country_name><related>Producer Prices</related><last>127.6</last><previous>127.3</previous></item>
+<item><country_name>Germany</country_name><related>PPI YoY</related><last>-4.4</last><previous>-5.1</previous></item>
+<item><country_name>Germany</country_name><related>Wholesale Prices</related><last>130.9</last><previous>131.0</previous></item>
+<item><country_name>Honduras</country_name><related>Consumer Price Index CPI</related><last>429.5</last><previous>426.6</previous></item>
+<item><country_name>Honduras</country_name><related>CPI Housing Utilities</related><last>444.4</last><previous>442.7</previous></item>
+<item><country_name>Honduras</country_name><related>CPI Transportation</related><last>455.0</last><previous>458.4</previous></item>
+<item><country_name>Honduras</country_name><related>Food Inflation</related><last>4.41</last><previous>6.1</previous></item>
+<item><country_name>Honduras</country_name><related>Inflation Rate</related><last>4.5</last><previous>5.0</previous></item>
+<item><country_name>Honduras</country_name><related>Inflation Rate MoM</related><last>0.68</last><previous>0.24</previous></item>
+<item><country_name>Gambia</country_name><related>Consumer Price Index CPI</related><last>152.42</last><previous>151.55</previous></item>
+<item><country_name>Gambia</country_name><related>CPI Housing Utilities</related><last>146.26</last><previous>146.12</previous></item>
+<item><country_name>Gambia</country_name><related>CPI Transportation</related><last>136.34</last><previous>136.3</previous></item>
+<item><country_name>Gambia</country_name><related>Food Inflation</related><last>20.39</last><previous>22.03</previous></item>
+<item><country_name>Gambia</country_name><related>Inflation Rate</related><last>16.15</last><previous>17.3</previous></item>
+<item><country_name>Gambia</country_name><related>Inflation Rate MoM</related><last>0.57</last><previous>0.75</previous></item>
+<item><country_name>Gabon</country_name><related>Consumer Price Index CPI</related><last>112.5</last><previous>112.3</previous></item>
+<item><country_name>Gabon</country_name><related>CPI Transportation</related><last>112.4</last><previous>112.1</previous></item>
+<item><country_name>Gabon</country_name><related>Inflation Rate</related><last>2.25</last><previous>2.3</previous></item>
+<item><country_name>France</country_name><related>Energy Inflation</related><last>4.3</last><previous>1.9</previous></item>
+<item><country_name>France</country_name><related>Food Inflation</related><last>3.6</last><previous>5.7</previous></item>
+<item><country_name>France</country_name><related>Services Inflation</related><last>3.2</last><previous>3.2</previous></item>
+<item><country_name>France</country_name><related>Consumer Price Index CPI</related><last>119.21</last><previous>118.19</previous></item>
+<item><country_name>France</country_name><related>Core Consumer Prices</related><last>115.57</last><previous>115.19</previous></item>
+<item><country_name>France</country_name><related>Core Inflation Rate</related><last>2.7</last><previous>3.0</previous></item>
+<item><country_name>France</country_name><related>CPI Housing Utilities</related><last>131.45</last><previous>128.93</previous></item>
+<item><country_name>France</country_name><related>CPI Transportation</related><last>126.91</last><previous>124.54</previous></item>
+<item><country_name>France</country_name><related>Harmonised Consumer Prices</related><last>122.3</last><previous>121.2</previous></item>
+<item><country_name>France</country_name><related>Inflation Rate YoY</related><last>3.0</last><previous>3.1</previous></item>
+<item><country_name>France</country_name><related>Inflation Rate MoM</related><last>0.8</last><previous>-0.2</previous></item>
+<item><country_name>France</country_name><related>PPI MoM</related><last>-1.3</last><previous>-0.1</previous></item>
+<item><country_name>France</country_name><related>Producer Prices</related><last>129.9</last><previous>131.6</previous></item>
+<item><country_name>France</country_name><related>PPI YoY</related><last>-5.1</last><previous>-1.3</previous></item>
+<item><country_name>Finland</country_name><related>CPI</related><last>122.5</last><previous>121.85</previous></item>
+<item><country_name>Finland</country_name><related>CPI Housing Utilities</related><last>186.84</last><previous>185.85</previous></item>
+<item><country_name>Finland</country_name><related>CPI Transportation</related><last>117.9</last><previous>116.1</previous></item>
+<item><country_name>Finland</country_name><related>Export Prices</related><last>129.1</last><previous>129.3</previous></item>
+<item><country_name>Finland</country_name><related>Food Inflation</related><last>-0.47</last><previous>1.58</previous></item>
+<item><country_name>Finland</country_name><related>GDP Deflator</related><last>120.25</last><previous>121.15</previous></item>
+<item><country_name>Finland</country_name><related>Harmonised Consumer Prices</related><last>119.8</last><previous>119.0</previous></item>
+<item><country_name>Finland</country_name><related>Import Prices</related><last>135.0</last><previous>134.5</previous></item>
+<item><country_name>Finland</country_name><related>Inflation Rate YoY</related><last>3.0</last><previous>3.3</previous></item>
+<item><country_name>Finland</country_name><related>Inflation Rate MoM</related><last>0.5</last><previous>0.3</previous></item>
+<item><country_name>Finland</country_name><related>Producer Prices</related><last>133.6</last><previous>133.3</previous></item>
+<item><country_name>Finland</country_name><related>PPI YoY</related><last>-5.4</last><previous>-7.6</previous></item>
+<item><country_name>Finland</country_name><related>Wholesale Prices</related><last>2968.0</last><previous>2963.0</previous></item>
+<item><country_name>European Union</country_name><related>Consumer Price Index CPI</related><last>127.74</last><previous>127.95</previous></item>
+<item><country_name>European Union</country_name><related>Core Consumer Prices</related><last>119.11</last><previous>119.95</previous></item>
+<item><country_name>European Union</country_name><related>Core Inflation Rate</related><last>3.75</last><previous>3.96</previous></item>
+<item><country_name>European Union</country_name><related>CPI Housing Utilities</related><last>136.3</last><previous>134.52</previous></item>
+<item><country_name>European Union</country_name><related>CPI Transportation</related><last>126.26</last><previous>127.09</previous></item>
+<item><country_name>European Union</country_name><related>Food Inflation</related><last>5.07</last><previous>5.87</previous></item>
+<item><country_name>European Union</country_name><related>GDP Deflator</related><last>124.71</last><previous>122.81</previous></item>
+<item><country_name>European Union</country_name><related>Inflation Rate</related><last>3.1</last><previous>3.4</previous></item>
+<item><country_name>European Union</country_name><related>Inflation Rate MoM</related><last>-0.2</last><previous>0.1</previous></item>
+<item><country_name>European Union</country_name><related>Producer Prices</related><last>127.3</last><previous>128.4</previous></item>
+<item><country_name>European Union</country_name><related>Producer Prices Change</related><last>-8.4</last><previous>-10.0</previous></item>
+<item><country_name>Euro Area</country_name><related>Energy Inflation</related><last>-3.7</last><previous>-6.1</previous></item>
+<item><country_name>Euro Area</country_name><related>Services Inflation</related><last>3.9</last><previous>4.0</previous></item>
+<item><country_name>Euro Area</country_name><related>CPI</related><last>124.37</last><previous>123.6</previous></item>
+<item><country_name>Euro Area</country_name><related>Core Consumer Prices</related><last>116.81</last><previous>116.05</previous></item>
+<item><country_name>Euro Area</country_name><related>Core Inflation Rate YoY</related><last>3.1</last><previous>3.3</previous></item>
+<item><country_name>Euro Area</country_name><related>CPI Housing Utilities</related><last>131.33</last><previous>129.76</previous></item>
+<item><country_name>Euro Area</country_name><related>CPI Transportation</related><last>124.94</last><previous>125.69</previous></item>
+<item><country_name>Euro Area</country_name><related>Energy Prices</related><last>150.84</last><previous>148.64</previous></item>
+<item><country_name>Euro Area</country_name><related>Food Inflation</related><last>5.4</last><previous>6.1</previous></item>
+<item><country_name>Euro Area</country_name><related>GDP Deflator</related><last>123.74</last><previous>122.04</previous></item>
+<item><country_name>Euro Area</country_name><related>Import Prices</related><last>110.6</last><previous>110.8</previous></item>
+<item><country_name>Euro Area</country_name><related>Consumer Inflation Expectations</related><last>3.3</last><previous>3.2</previous></item>
+<item><country_name>Euro Area</country_name><related>Inflation Rate YoY</related><last>2.6</last><previous>2.8</previous></item>
+<item><country_name>Euro Area</country_name><related>Inflation Rate MoM</related><last>0.6</last><previous>-0.4</previous></item>
+<item><country_name>Euro Area</country_name><related>Producer Prices</related><last>125.9</last><previous>127.0</previous></item>
+<item><country_name>Euro Area</country_name><related>PPI YoY</related><last>-8.6</last><previous>-10.7</previous></item>
+<item><country_name>Estonia</country_name><related>Food Inflation</related><last>3.0</last><previous>5.0</previous></item>
+<item><country_name>Estonia</country_name><related>CPI</related><last>295.81</last><previous>295.79</previous></item>
+<item><country_name>Estonia</country_name><related>CPI Housing Utilities</related><last>606.13</last><previous>632.81</previous></item>
+<item><country_name>Estonia</country_name><related>CPI Transportation</related><last>246.42</last><previous>242.55</previous></item>
+<item><country_name>Estonia</country_name><related>Export Prices</related><last>452.86</last><previous>443.66</previous></item>
+<item><country_name>Estonia</country_name><related>GDP Deflator</related><last>154.83</last><previous>150.88</previous></item>
+<item><country_name>Estonia</country_name><related>Import Prices</related><last>197.91</last><previous>193.07</previous></item>
+<item><country_name>Estonia</country_name><related>Inflation Rate YoY</related><last>4.2</last><previous>4.7</previous></item>
+<item><country_name>Estonia</country_name><related>Inflation Rate MoM</related><last>0.0</last><previous>1.4</previous></item>
+<item><country_name>Estonia</country_name><related>Producer Prices</related><last>159.23</last><previous>156.17</previous></item>
+<item><country_name>Estonia</country_name><related>PPI YoY</related><last>-1.5</last><previous>-4.4</previous></item>
+<item><country_name>Greece</country_name><related>Food Inflation</related><last>6.66</last><previous>8.33</previous></item>
+<item><country_name>Greece</country_name><related>Consumer Price Index CPI</related><last>115.61</last><previous>115.5</previous></item>
+<item><country_name>Greece</country_name><related>Core Consumer Prices</related><last>107.84</last><previous>107.97</previous></item>
+<item><country_name>Greece</country_name><related>Core Inflation Rate</related><last>2.7</last><previous>3.2</previous></item>
+<item><country_name>Greece</country_name><related>CPI Housing Utilities</related><last>120.54</last><previous>120.03</previous></item>
+<item><country_name>Greece</country_name><related>CPI Transportation</related><last>120.34</last><previous>118.43</previous></item>
+<item><country_name>Greece</country_name><related>GDP Deflator</related><last>113.27</last><previous>108.37</previous></item>
+<item><country_name>Greece</country_name><related>Harmonised Consumer Prices</related><last>116.04</last><previous>115.89</previous></item>
+<item><country_name>Greece</country_name><related>Import Prices</related><last>133.77</last><previous>131.51</previous></item>
+<item><country_name>Greece</country_name><related>Inflation Rate YoY</related><last>2.9</last><previous>3.1</previous></item>
+<item><country_name>Greece</country_name><related>Inflation Rate MoM</related><last>0.1</last><previous>-0.8</previous></item>
+<item><country_name>Greece</country_name><related>Producer Prices</related><last>138.0</last><previous>136.8</previous></item>
+<item><country_name>Greece</country_name><related>PPI YoY</related><last>-7.0</last><previous>-6.6</previous></item>
+<item><country_name>Ethiopia</country_name><related>Food Inflation</related><last>31.6</last><previous>32.2</previous></item>
+<item><country_name>Ethiopia</country_name><related>Inflation Rate YoY</related><last>28.2</last><previous>29.4</previous></item>
+<item><country_name>Ethiopia</country_name><related>Inflation Rate MoM</related><last>1.0</last><previous>1.8</previous></item>
+<item><country_name>Equatorial Guinea</country_name><related>Inflation Rate</related><last>5.0</last><previous>-1.3</previous></item>
+<item><country_name>Eritrea</country_name><related>Inflation Rate</related><last>7.5</last><previous>4.5</previous></item>
+<item><country_name>Guyana</country_name><related>Consumer Price Index CPI</related><last>138.86</last><previous>139.43</previous></item>
+<item><country_name>Guyana</country_name><related>Food Inflation</related><last>1.6</last><previous>3.8</previous></item>
+<item><country_name>Guyana</country_name><related>Inflation Rate</related><last>0.9</last><previous>1.98</previous></item>
+<item><country_name>Guyana</country_name><related>Inflation Rate MoM</related><last>-0.4</last><previous>0.5</previous></item>
+<item><country_name>Faroe Islands</country_name><related>Consumer Price Index CPI</related><last>142.3</last><previous>140.9</previous></item>
+<item><country_name>Faroe Islands</country_name><related>Food Inflation</related><last>5.8</last><previous>8.0</previous></item>
+<item><country_name>Faroe Islands</country_name><related>Inflation Rate YoY</related><last>2.8</last><previous>3.7</previous></item>
+<item><country_name>Faroe Islands</country_name><related>Inflation Rate MoM</related><last>1.0</last><previous>1.0</previous></item>
+<item><country_name>Fiji</country_name><related>Consumer Price Index CPI</related><last>124.0</last><previous>122.4</previous></item>
+<item><country_name>Fiji</country_name><related>CPI Housing Utilities</related><last>102.2</last><previous>102.5</previous></item>
+<item><country_name>Fiji</country_name><related>CPI Transportation</related><last>122.4</last><previous>123.6</previous></item>
+<item><country_name>Fiji</country_name><related>Food Inflation</related><last>6.8</last><previous>3.4</previous></item>
+<item><country_name>Fiji</country_name><related>Inflation Rate YoY</related><last>4.6</last><previous>3.6</previous></item>
+<item><country_name>Fiji</country_name><related>Inflation Rate MoM</related><last>1.3</last><previous>-0.6</previous></item>
+<item><country_name>Fiji</country_name><related>Producer Prices</related><last>122.2</last><previous>121.5</previous></item>
+<item><country_name>Fiji</country_name><related>Producer Prices Change</related><last>3.5</last><previous>3.8</previous></item>
+<item><country_name>East Timor</country_name><related>Consumer Price Index CPI</related><last>124.2</last><previous>124.7</previous></item>
+<item><country_name>East Timor</country_name><related>CPI Housing Utilities</related><last>101.6</last><previous>101.6</previous></item>
+<item><country_name>East Timor</country_name><related>CPI Transportation</related><last>111.2</last><previous>112.2</previous></item>
+<item><country_name>East Timor</country_name><related>Food Inflation</related><last>7.4</last><previous>12.4</previous></item>
+<item><country_name>East Timor</country_name><related>Inflation Rate YoY</related><last>4.3</last><previous>8.7</previous></item>
+<item><country_name>East Timor</country_name><related>Inflation Rate MoM</related><last>-0.4</last><previous>0.3</previous></item>
+<item><country_name>Egypt</country_name><related>Consumer Price Index CPI</related><last>214.9</last><previous>193.0</previous></item>
+<item><country_name>Egypt</country_name><related>Core Consumer Prices</related><last>216.2</last><previous>190.8</previous></item>
+<item><country_name>Egypt</country_name><related>Core Inflation Rate YoY</related><last>35.1</last><previous>29.0</previous></item>
+<item><country_name>Egypt</country_name><related>CPI Housing Utilities</related><last>135.9</last><previous>133.7</previous></item>
+<item><country_name>Egypt</country_name><related>CPI Transportation</related><last>175.3</last><previous>171.5</previous></item>
+<item><country_name>Egypt</country_name><related>Food Inflation</related><last>50.9</last><previous>47.9</previous></item>
+<item><country_name>Egypt</country_name><related>Inflation Rate YoY</related><last>35.7</last><previous>29.8</previous></item>
+<item><country_name>Egypt</country_name><related>Inflation Rate MoM</related><last>11.4</last><previous>1.6</previous></item>
+<item><country_name>Dominican Republic</country_name><related>Consumer Price Index CPI</related><last>127.09</last><previous>126.98</previous></item>
+<item><country_name>Dominican Republic</country_name><related>Core Consumer Prices</related><last>123.23</last><previous>122.89</previous></item>
+<item><country_name>Dominican Republic</country_name><related>Core Inflation Rate</related><last>3.95</last><previous>4.09</previous></item>
+<item><country_name>Dominican Republic</country_name><related>CPI Housing Utilities</related><last>121.45</last><previous>121.39</previous></item>
+<item><country_name>Dominican Republic</country_name><related>CPI Transportation</related><last>133.03</last><previous>132.69</previous></item>
+<item><country_name>Dominican Republic</country_name><related>Food Inflation</related><last>5.6</last><previous>5.56</previous></item>
+<item><country_name>Dominican Republic</country_name><related>GDP Deflator</related><last>228.0</last><previous>225.0</previous></item>
+<item><country_name>Dominican Republic</country_name><related>Inflation Rate YoY</related><last>3.3</last><previous>3.32</previous></item>
+<item><country_name>Dominican Republic</country_name><related>Inflation Rate MoM</related><last>0.09</last><previous>0.39</previous></item>
+<item><country_name>Denmark</country_name><related>Food Inflation</related><last>-0.6</last><previous>2.2</previous></item>
+<item><country_name>Denmark</country_name><related>Rent Inflation</related><last>2.0</last><previous>2.5</previous></item>
+<item><country_name>Denmark</country_name><related>Services Inflation</related><last>3.6</last><previous>4.0</previous></item>
+<item><country_name>Denmark</country_name><related>CPI</related><last>118.4</last><previous>117.8</previous></item>
+<item><country_name>Denmark</country_name><related>Core Consumer Prices</related><last>116.7</last><previous>116.0</previous></item>
+<item><country_name>Denmark</country_name><related>Core Inflation Rate</related><last>1.74</last><previous>2.47</previous></item>
+<item><country_name>Denmark</country_name><related>CPI Transportation</related><last>119.5</last><previous>117.9</previous></item>
+<item><country_name>Denmark</country_name><related>Export Prices</related><last>133.3</last><previous>133.6</previous></item>
+<item><country_name>Denmark</country_name><related>GDP Deflator</related><last>119.75</last><previous>117.93</previous></item>
+<item><country_name>Denmark</country_name><related>Harmonised Consumer Prices</related><last>118.7</last><previous>118.2</previous></item>
+<item><country_name>Denmark</country_name><related>Import Prices</related><last>116.9</last><previous>114.8</previous></item>
+<item><country_name>Denmark</country_name><related>Inflation Rate YoY</related><last>0.8</last><previous>1.2</previous></item>
+<item><country_name>Denmark</country_name><related>Inflation Rate MoM</related><last>0.5</last><previous>0.9</previous></item>
+<item><country_name>Denmark</country_name><related>Producer Prices</related><last>147.9</last><previous>149.7</previous></item>
+<item><country_name>Denmark</country_name><related>Producer Prices Change</related><last>1.7</last><previous>-0.5</previous></item>
+<item><country_name>El Salvador</country_name><related>Core Consumer Prices</related><last>117.3</last><previous>117.3</previous></item>
+<item><country_name>El Salvador</country_name><related>Core Inflation Rate</related><last>0.6</last><previous>0.86</previous></item>
+<item><country_name>El Salvador</country_name><related>CPI Housing Utilities</related><last>144.27</last><previous>144.33</previous></item>
+<item><country_name>El Salvador</country_name><related>CPI Transportation</related><last>116.87</last><previous>114.66</previous></item>
+<item><country_name>El Salvador</country_name><related>Food Inflation</related><last>2.15</last><previous>3.61</previous></item>
+<item><country_name>El Salvador</country_name><related>Inflation Rate YoY</related><last>0.8</last><previous>1.21</previous></item>
+<item><country_name>El Salvador</country_name><related>Inflation Rate MoM</related><last>0.19</last><previous>0.33</previous></item>
+<item><country_name>Cuba</country_name><related>GDP Deflator</related><last>1212.4</last><previous>1062.1</previous></item>
+<item><country_name>Cuba</country_name><related>Inflation Rate</related><last>31.34</last><previous>31.78</previous></item>
+<item><country_name>Cuba</country_name><related>Inflation Rate MoM</related><last>3.39</last><previous>2.29</previous></item>
+<item><country_name>Czech Republic</country_name><related>CPI</related><last>150.2</last><previous>149.8</previous></item>
+<item><country_name>Czech Republic</country_name><related>CPI Housing Utilities</related><last>168.1</last><previous>168.1</previous></item>
+<item><country_name>Czech Republic</country_name><related>CPI Transportation</related><last>134.6</last><previous>132.4</previous></item>
+<item><country_name>Czech Republic</country_name><related>Export Prices</related><last>115.8</last><previous>116.8</previous></item>
+<item><country_name>Czech Republic</country_name><related>Food Inflation</related><last>-4.8</last><previous>-3.9</previous></item>
+<item><country_name>Czech Republic</country_name><related>GDP Deflator</related><last>141.1</last><previous>139.6</previous></item>
+<item><country_name>Czech Republic</country_name><related>Harmonised Consumer Prices</related><last>150.1</last><previous>147.5</previous></item>
+<item><country_name>Czech Republic</country_name><related>Import Prices</related><last>111.3</last><previous>112.7</previous></item>
+<item><country_name>Czech Republic</country_name><related>Inflation Rate YoY</related><last>2.0</last><previous>2.3</previous></item>
+<item><country_name>Czech Republic</country_name><related>Inflation Rate MoM</related><last>0.3</last><previous>1.5</previous></item>
+<item><country_name>Czech Republic</country_name><related>Producer Prices</related><last>145.7</last><previous>142.2</previous></item>
+<item><country_name>Czech Republic</country_name><related>PPI YoY</related><last>-1.8</last><previous>1.4</previous></item>
+<item><country_name>Ecuador</country_name><related>Consumer Price Index CPI</related><last>111.96</last><previous>111.86</previous></item>
+<item><country_name>Ecuador</country_name><related>CPI Housing Utilities</related><last>120.01</last><previous>119.95</previous></item>
+<item><country_name>Ecuador</country_name><related>CPI Transportation</related><last>118.57</last><previous>118.02</previous></item>
+<item><country_name>Ecuador</country_name><related>Food Inflation</related><last>5.16</last><previous>4.55</previous></item>
+<item><country_name>Ecuador</country_name><related>Inflation Rate YoY</related><last>1.43</last><previous>1.35</previous></item>
+<item><country_name>Ecuador</country_name><related>Inflation Rate MoM</related><last>0.09</last><previous>0.13</previous></item>
+<item><country_name>Ecuador</country_name><related>Producer Prices</related><last>113.1</last><previous>110.96</previous></item>
+<item><country_name>Ecuador</country_name><related>Producer Prices Change</related><last>1.41</last><previous>-0.1</previous></item>
+<item><country_name>Costa Rica</country_name><related>CPI Housing Utilities</related><last>107.57</last><previous>107.17</previous></item>
+<item><country_name>Costa Rica</country_name><related>CPI Transportation</related><last>111.25</last><previous>111.11</previous></item>
+<item><country_name>Costa Rica</country_name><related>Food Inflation</related><last>-3.73</last><previous>-4.77</previous></item>
+<item><country_name>Costa Rica</country_name><related>Inflation Rate YoY</related><last>-1.13</last><previous>-1.87</previous></item>
+<item><country_name>Costa Rica</country_name><related>Inflation Rate MoM</related><last>-0.11</last><previous>0.06</previous></item>
+<item><country_name>Croatia</country_name><related>PPI YoY</related><last>-1.7</last><previous>-1.4</previous></item>
+<item><country_name>Croatia</country_name><related>CPI</related><last>127.1</last><previous>126.9</previous></item>
+<item><country_name>Croatia</country_name><related>Core Consumer Prices</related><last>128.0</last><previous>128.1</previous></item>
+<item><country_name>Croatia</country_name><related>Core Inflation Rate</related><last>4.8</last><previous>5.0</previous></item>
+<item><country_name>Croatia</country_name><related>CPI Housing Utilities</related><last>118.7</last><previous>118.6</previous></item>
+<item><country_name>Croatia</country_name><related>CPI Transportation</related><last>124.0</last><previous>122.3</previous></item>
+<item><country_name>Croatia</country_name><related>Food Inflation</related><last>5.71</last><previous>6.46</previous></item>
+<item><country_name>Croatia</country_name><related>Harmonised Consumer Prices</related><last>128.57</last><previous>128.19</previous></item>
+<item><country_name>Croatia</country_name><related>Inflation Rate YoY</related><last>4.1</last><previous>4.1</previous></item>
+<item><country_name>Croatia</country_name><related>Inflation Rate MoM</related><last>0.2</last><previous>-0.4</previous></item>
+<item><country_name>Croatia</country_name><related>Producer Prices</related><last>123.1</last><previous>123.1</previous></item>
+<item><country_name>Comoros</country_name><related>Inflation Rate</related><last>1.1</last><previous>1.8</previous></item>
+<item><country_name>Djibouti</country_name><related>Consumer Price Index CPI</related><last>104.4</last><previous>103.2</previous></item>
+<item><country_name>Djibouti</country_name><related>CPI Housing Utilities</related><last>103.0</last><previous>103.1</previous></item>
+<item><country_name>Djibouti</country_name><related>CPI Transportation</related><last>100.3</last><previous>100.4</previous></item>
+<item><country_name>Djibouti</country_name><related>Food Inflation</related><last>6.6</last><previous>5.9</previous></item>
+<item><country_name>Djibouti</country_name><related>Inflation Rate</related><last>4.2</last><previous>3.8</previous></item>
+<item><country_name>China</country_name><related>Rent Inflation</related><last>0.0</last><previous>0.2</previous></item>
+<item><country_name>China</country_name><related>Consumer Price Index CPI</related><last>104.2</last><previous>103.2</previous></item>
+<item><country_name>China</country_name><related>Core Consumer Prices</related><last>101.2</last><previous>100.4</previous></item>
+<item><country_name>China</country_name><related>Core Inflation Rate</related><last>1.2</last><previous>0.4</previous></item>
+<item><country_name>China</country_name><related>Core Inflation Rate MoM</related><last>0.5</last><previous>0.3</previous></item>
+<item><country_name>China</country_name><related>Food Inflation</related><last>-0.9</last><previous>-5.9</previous></item>
+<item><country_name>China</country_name><related>GDP Deflator</related><last>736.7</last><previous>723.77</previous></item>
+<item><country_name>China</country_name><related>Inflation Rate YoY</related><last>0.7</last><previous>-0.8</previous></item>
+<item><country_name>China</country_name><related>Inflation Rate MoM</related><last>1.0</last><previous>0.3</previous></item>
+<item><country_name>China</country_name><related>Producer Price Inflation MoM</related><last>-0.2</last><previous>-0.2</previous></item>
+<item><country_name>China</country_name><related>Producer Prices</related><last>107.6</last><previous>107.9</previous></item>
+<item><country_name>China</country_name><related>PPI YoY</related><last>-2.7</last><previous>-2.5</previous></item>
+<item><country_name>Chad</country_name><related>Consumer Price Index CPI</related><last>112.9</last><previous>111.2</previous></item>
+<item><country_name>Chad</country_name><related>Food Inflation</related><last>-0.4</last><previous>-5.6</previous></item>
+<item><country_name>Chad</country_name><related>Inflation Rate</related><last>1.9</last><previous>-1.7</previous></item>
+<item><country_name>Colombia</country_name><related>Consumer Price Index CPI</related><last>140.49</last><previous>138.98</previous></item>
+<item><country_name>Colombia</country_name><related>CPI Housing Utilities</related><last>130.04</last><previous>128.67</previous></item>
+<item><country_name>Colombia</country_name><related>CPI Transportation</related><last>146.77</last><previous>145.52</previous></item>
+<item><country_name>Colombia</country_name><related>Export Prices</related><last>153.01</last><previous>150.81</previous></item>
+<item><country_name>Colombia</country_name><related>Food Inflation</related><last>2.96</last><previous>5.0</previous></item>
+<item><country_name>Colombia</country_name><related>Import Prices</related><last>155.69</last><previous>155.86</previous></item>
+<item><country_name>Colombia</country_name><related>Inflation Rate YoY</related><last>7.74</last><previous>8.35</previous></item>
+<item><country_name>Colombia</country_name><related>Inflation Rate MoM</related><last>1.09</last><previous>0.92</previous></item>
+<item><country_name>Colombia</country_name><related>Producer Prices</related><last>177.08</last><previous>174.91</previous></item>
+<item><country_name>Colombia</country_name><related>PPI YoY</related><last>-5.38</last><previous>-5.52</previous></item>
+<item><country_name>Cape Verde</country_name><related>Consumer Price Index CPI</related><last>115.75</last><previous>116.5</previous></item>
+<item><country_name>Cape Verde</country_name><related>Core Consumer Prices</related><last>115.2</last><previous>115.7</previous></item>
+<item><country_name>Cape Verde</country_name><related>Core Inflation Rate</related><last>-0.1</last><previous>1.5</previous></item>
+<item><country_name>Cape Verde</country_name><related>CPI Housing Utilities</related><last>110.71</last><previous>109.19</previous></item>
+<item><country_name>Cape Verde</country_name><related>CPI Transportation</related><last>114.03</last><previous>117.12</previous></item>
+<item><country_name>Cape Verde</country_name><related>Food Inflation</related><last>1.4</last><previous>5.1</previous></item>
+<item><country_name>Cape Verde</country_name><related>Inflation Rate YoY</related><last>0.0</last><previous>1.3</previous></item>
+<item><country_name>Cape Verde</country_name><related>Inflation Rate MoM</related><last>-0.6</last><previous>0.1</previous></item>
+<item><country_name>Cayman Islands</country_name><related>Consumer Price Index CPI</related><last>132.5</last><previous>130.3</previous></item>
+<item><country_name>Cayman Islands</country_name><related>Food Inflation</related><last>-0.6</last><previous>4.6</previous></item>
+<item><country_name>Cayman Islands</country_name><related>Inflation Rate</related><last>3.6</last><previous>1.2</previous></item>
+<item><country_name>Cyprus</country_name><related>Consumer Price Index CPI</related><last>114.93</last><previous>113.9</previous></item>
+<item><country_name>Cyprus</country_name><related>CPI Housing Utilities</related><last>142.57</last><previous>143.36</previous></item>
+<item><country_name>Cyprus</country_name><related>CPI Transportation</related><last>111.57</last><previous>110.49</previous></item>
+<item><country_name>Cyprus</country_name><related>Food Inflation</related><last>1.93</last><previous>2.81</previous></item>
+<item><country_name>Cyprus</country_name><related>GDP Deflator</related><last>117.03</last><previous>116.76</previous></item>
+<item><country_name>Cyprus</country_name><related>Harmonised Consumer Prices</related><last>113.6</last><previous>112.67</previous></item>
+<item><country_name>Cyprus</country_name><related>Harmonised Inflation Rate MoM</related><last>0.9</last><previous>-1.2</previous></item>
+<item><country_name>Cyprus</country_name><related>Harmonised Inflation Rate YoY</related><last>2.1</last><previous>2.1</previous></item>
+<item><country_name>Cyprus</country_name><related>Inflation Rate YoY</related><last>1.82</last><previous>1.69</previous></item>
+<item><country_name>Cyprus</country_name><related>Inflation Rate MoM</related><last>0.9</last><previous>-1.2</previous></item>
+<item><country_name>Cyprus</country_name><related>Producer Prices</related><last>122.5</last><previous>124.1</previous></item>
+<item><country_name>Canada</country_name><related>Food Inflation</related><last>3.9</last><previous>5.0</previous></item>
+<item><country_name>Canada</country_name><related>Rent Inflation</related><last>7.92</last><previous>7.75</previous></item>
+<item><country_name>Canada</country_name><related>Services Inflation</related><last>4.21</last><previous>4.28</previous></item>
+<item><country_name>Canada</country_name><related>Consumer Price Index CPI</related><last>158.3</last><previous>158.3</previous></item>
+<item><country_name>Canada</country_name><related>Core Consumer Prices</related><last>153.3</last><previous>153.1</previous></item>
+<item><country_name>Canada</country_name><related>Core Inflation Rate YoY</related><last>2.4</last><previous>2.6</previous></item>
+<item><country_name>Canada</country_name><related>CPI Housing Utilities</related><last>178.4</last><previous>177.8</previous></item>
+<item><country_name>Canada</country_name><related>CPI Transportation</related><last>167.4</last><previous>169.5</previous></item>
+<item><country_name>Canada</country_name><related>Export Prices</related><last>134.0</last><previous>133.8</previous></item>
+<item><country_name>Canada</country_name><related>GDP Implicit Price</related><last>125.4</last><previous>123.7</previous></item>
+<item><country_name>Canada</country_name><related>Import Prices</related><last>129.0</last><previous>128.9</previous></item>
+<item><country_name>Canada</country_name><related>Inflation Rate YoY</related><last>2.9</last><previous>3.4</previous></item>
+<item><country_name>Canada</country_name><related>Inflation Rate MoM</related><last>0.0</last><previous>-0.3</previous></item>
+<item><country_name>Canada</country_name><related>Producer Prices</related><last>123.4</last><previous>123.5</previous></item>
+<item><country_name>Canada</country_name><related>PPI YoY</related><last>-2.9</last><previous>-2.7</previous></item>
+<item><country_name>Canada</country_name><related>Raw Materials Prices MoM</related><last>131.8</last><previous>130.2</previous></item>
+<item><country_name>Cameroon</country_name><related>Consumer Price Index CPI</related><last>108.8</last><previous>109.2</previous></item>
+<item><country_name>Cameroon</country_name><related>CPI Housing Utilities</related><last>104.7</last><previous>104.7</previous></item>
+<item><country_name>Cameroon</country_name><related>CPI Transportation</related><last>118.2</last><previous>118.4</previous></item>
+<item><country_name>Cameroon</country_name><related>Food Inflation</related><last>5.3</last><previous>10.8</previous></item>
+<item><country_name>Cameroon</country_name><related>Inflation Rate</related><last>5.2</last><previous>5.9</previous></item>
+<item><country_name>Cameroon</country_name><related>Inflation Rate MoM</related><last>-0.4</last><previous>0.1</previous></item>
+<item><country_name>India</country_name><related>Consumer Price Index CPI</related><last>185.8</last><previous>185.5</previous></item>
+<item><country_name>India</country_name><related>CPI Housing Utilities</related><last>178.5</last><previous>177.6</previous></item>
+<item><country_name>India</country_name><related>CPI Transportation</related><last>167.0</last><previous>166.8</previous></item>
+<item><country_name>India</country_name><related>Food Inflation</related><last>8.66</last><previous>8.3</previous></item>
+<item><country_name>India</country_name><related>GDP Deflator</related><last>172.6</last><previous>170.2</previous></item>
+<item><country_name>India</country_name><related>Inflation Rate YoY</related><last>5.09</last><previous>5.1</previous></item>
+<item><country_name>India</country_name><related>Inflation Rate MoM</related><last>0.16</last><previous>-0.11</previous></item>
+<item><country_name>Burkina Faso</country_name><related>Consumer Price Index CPI</related><last>124.7</last><previous>126.1</previous></item>
+<item><country_name>Burkina Faso</country_name><related>CPI Housing Utilities</related><last>122.4</last><previous>137.5</previous></item>
+<item><country_name>Burkina Faso</country_name><related>CPI Transportation</related><last>110.6</last><previous>110.5</previous></item>
+<item><country_name>Burkina Faso</country_name><related>Food Inflation</related><last>2.0</last><previous>2.6</previous></item>
+<item><country_name>Burkina Faso</country_name><related>Inflation Rate</related><last>2.7</last><previous>4.3</previous></item>
+<item><country_name>Burkina Faso</country_name><related>Inflation Rate MoM</related><last>-1.2</last><previous>1.3</previous></item>
+<item><country_name>Bulgaria</country_name><related>Consumer Price Index CPI</related><last>9535.17</last><previous>9506.55</previous></item>
+<item><country_name>Bulgaria</country_name><related>CPI Housing Utilities</related><last>22075.77</last><previous>22106.62</previous></item>
+<item><country_name>Bulgaria</country_name><related>CPI Transportation</related><last>9715.72</last><previous>9576.45</previous></item>
+<item><country_name>Bulgaria</country_name><related>Export Prices</related><last>90.4</last><previous>94.8</previous></item>
+<item><country_name>Bulgaria</country_name><related>Food Inflation</related><last>3.2</last><previous>5.0</previous></item>
+<item><country_name>Bulgaria</country_name><related>Harmonised Consumer Prices</related><last>136.72</last><previous>136.29</previous></item>
+<item><country_name>Bulgaria</country_name><related>Harmonised Inflation Rate MoM</related><last>0.3</last><previous>0.2</previous></item>
+<item><country_name>Bulgaria</country_name><related>Harmonised Inflation Rate YoY</related><last>3.5</last><previous>4.0</previous></item>
+<item><country_name>Bulgaria</country_name><related>Import Prices</related><last>94.5</last><previous>94.8</previous></item>
+<item><country_name>Bulgaria</country_name><related>Inflation Rate YoY</related><last>3.3</last><previous>3.8</previous></item>
+<item><country_name>Bulgaria</country_name><related>PPI MoM</related><last>-1.8</last><previous>-0.6</previous></item>
+<item><country_name>Bulgaria</country_name><related>Producer Prices</related><last>148.01</last><previous>150.65</previous></item>
+<item><country_name>Bulgaria</country_name><related>PPI YoY</related><last>-14.2</last><previous>-14.6</previous></item>
+<item><country_name>Brunei</country_name><related>Consumer Price Index CPI</related><last>106.4</last><previous>107.7</previous></item>
+<item><country_name>Brunei</country_name><related>Food Inflation</related><last>2.1</last><previous>2.1</previous></item>
+<item><country_name>Brunei</country_name><related>Inflation Rate YoY</related><last>0.1</last><previous>0.7</previous></item>
+<item><country_name>Brunei</country_name><related>Inflation Rate MoM</related><last>-1.3</last><previous>0.8</previous></item>
+<item><country_name>Botswana</country_name><related>Core Consumer Prices</related><last>129.5</last><previous>129.5</previous></item>
+<item><country_name>Botswana</country_name><related>Core Inflation Rate</related><last>4.1</last><previous>4.1</previous></item>
+<item><country_name>Botswana</country_name><related>CPI Housing Utilities</related><last>124.5</last><previous>124.5</previous></item>
+<item><country_name>Botswana</country_name><related>CPI Transportation</related><last>150.1</last><previous>150.3</previous></item>
+<item><country_name>Botswana</country_name><related>Food Inflation</related><last>5.8</last><previous>5.9</previous></item>
+<item><country_name>Botswana</country_name><related>Inflation Rate YoY</related><last>3.9</last><previous>3.9</previous></item>
+<item><country_name>Botswana</country_name><related>Inflation Rate MoM</related><last>0.1</last><previous>-0.3</previous></item>
+<item><country_name>Brazil</country_name><related>Consumer Price Index CPI</related><last>6858.17</last><previous>6801.72</previous></item>
+<item><country_name>Brazil</country_name><related>CPI Housing Utilities</related><last>11458.4</last><previous>11427.55</previous></item>
+<item><country_name>Brazil</country_name><related>CPI Transportation</related><last>6571.67</last><previous>6524.69</previous></item>
+<item><country_name>Brazil</country_name><related>Food Inflation</related><last>2.62</last><previous>1.82</previous></item>
+<item><country_name>Brazil</country_name><related>Inflation Rate YoY</related><last>4.5</last><previous>4.51</previous></item>
+<item><country_name>Brazil</country_name><related>Inflation Rate MoM</related><last>0.83</last><previous>0.42</previous></item>
+<item><country_name>Brazil</country_name><related>IPCA mid-month CPI MoM</related><last>0.78</last><previous>0.31</previous></item>
+<item><country_name>Brazil</country_name><related>IPCA mid-month CPI YoY</related><last>4.49</last><previous>4.47</previous></item>
+<item><country_name>Burundi</country_name><related>CPI Housing Utilities</related><last>200.6</last><previous>196.6</previous></item>
+<item><country_name>Burundi</country_name><related>CPI Transportation</related><last>170.7</last><previous>175.2</previous></item>
+<item><country_name>Burundi</country_name><related>Food Inflation</related><last>17.6</last><previous>17.8</previous></item>
+<item><country_name>Burundi</country_name><related>Inflation Rate YoY</related><last>17.77</last><previous>17.59</previous></item>
+<item><country_name>Burundi</country_name><related>Inflation Rate MoM</related><last>1.3</last><previous>1.4</previous></item>
+<item><country_name>Chile</country_name><related>Consumer Price Index CPI</related><last>102.32</last><previous>101.72</previous></item>
+<item><country_name>Chile</country_name><related>Core Consumer Prices</related><last>101.84</last><previous>101.19</previous></item>
+<item><country_name>Chile</country_name><related>Core Inflation Rate</related><last>4.22</last><previous>3.73</previous></item>
+<item><country_name>Chile</country_name><related>Core Inflation Rate MoM</related><last>0.6</last><previous>0.7</previous></item>
+<item><country_name>Chile</country_name><related>CPI Transportation</related><last>100.74</last><previous>99.33</previous></item>
+<item><country_name>Chile</country_name><related>Food Inflation</related><last>5.68</last><previous>5.27</previous></item>
+<item><country_name>Chile</country_name><related>Inflation Rate YoY</related><last>4.5</last><previous>3.8</previous></item>
+<item><country_name>Chile</country_name><related>Inflation Rate MoM</related><last>0.6</last><previous>0.7</previous></item>
+<item><country_name>Chile</country_name><related>Producer Prices</related><last>160.57</last><previous>159.24</previous></item>
+<item><country_name>Chile</country_name><related>PPI YoY</related><last>1.2</last><previous>0.5</previous></item>
+<item><country_name>Central African Republic</country_name><related>Inflation Rate</related><last>2.32</last><previous>0.98</previous></item>
+<item><country_name>Angola</country_name><related>Consumer Price Index CPI</related><last>182.48</last><previous>177.89</previous></item>
+<item><country_name>Angola</country_name><related>CPI Housing Utilities</related><last>138.33</last><previous>138.23</previous></item>
+<item><country_name>Angola</country_name><related>CPI Transportation</related><last>142.91</last><previous>142.88</previous></item>
+<item><country_name>Angola</country_name><related>Food Inflation</related><last>24.5</last><previous>21.9</previous></item>
+<item><country_name>Angola</country_name><related>Inflation Rate YoY</related><last>24.07</last><previous>21.99</previous></item>
+<item><country_name>Angola</country_name><related>Inflation Rate MoM</related><last>2.58</last><previous>2.49</previous></item>
+<item><country_name>Angola</country_name><related>Producer Prices</related><last>611.76</last><previous>594.13</previous></item>
+<item><country_name>Angola</country_name><related>Wholesale Prices YoY</related><last>29.94</last><previous>27.69</previous></item>
+<item><country_name>Bosnia and Herzegovina</country_name><related>Consumer Price Index CPI</related><last>124.6</last><previous>124.3</previous></item>
+<item><country_name>Bosnia and Herzegovina</country_name><related>CPI Housing Utilities</related><last>132.4</last><previous>132.9</previous></item>
+<item><country_name>Bosnia and Herzegovina</country_name><related>CPI Transportation</related><last>125.2</last><previous>125.4</previous></item>
+<item><country_name>Bosnia and Herzegovina</country_name><related>Food Inflation</related><last>2.92</last><previous>3.32</previous></item>
+<item><country_name>Bosnia and Herzegovina</country_name><related>Inflation Rate YoY</related><last>1.96</last><previous>2.14</previous></item>
+<item><country_name>Bosnia and Herzegovina</country_name><related>Inflation Rate MoM</related><last>2.0</last><previous>-0.2</previous></item>
+<item><country_name>Bosnia and Herzegovina</country_name><related>PPI YoY</related><last>0.7</last><previous>0.6</previous></item>
+<item><country_name>Algeria</country_name><related>Consumer Price Index CPI</related><last>289.6</last><previous>287.7</previous></item>
+<item><country_name>Algeria</country_name><related>CPI Housing Utilities</related><last>174.4</last><previous>174.4</previous></item>
+<item><country_name>Algeria</country_name><related>CPI Transportation</related><last>226.3</last><previous>226.3</previous></item>
+<item><country_name>Algeria</country_name><related>Food Inflation</related><last>7.2</last><previous>10.3</previous></item>
+<item><country_name>Algeria</country_name><related>Inflation Rate</related><last>6.3</last><previous>7.8</previous></item>
+<item><country_name>Algeria</country_name><related>Inflation Rate MoM</related><last>0.7</last><previous>-1.5</previous></item>
+<item><country_name>Algeria</country_name><related>Producer Prices</related><last>1775.3</last><previous>1786.5</previous></item>
+<item><country_name>Algeria</country_name><related>Producer Prices Change</related><last>-3.9</last><previous>3.5</previous></item>
+<item><country_name>Albania</country_name><related>Food Inflation</related><last>5.6</last><previous>7.0</previous></item>
+<item><country_name>Albania</country_name><related>Consumer Price Index CPI</related><last>116.81</last><previous>116.42</previous></item>
+<item><country_name>Albania</country_name><related>CPI Housing Utilities</related><last>107.5</last><previous>106.8</previous></item>
+<item><country_name>Albania</country_name><related>CPI Transportation</related><last>111.23</last><previous>111.42</previous></item>
+<item><country_name>Albania</country_name><related>Harmonised Consumer Prices</related><last>117.2</last><previous>116.7</previous></item>
+<item><country_name>Albania</country_name><related>Harmonised Inflation Rate YoY</related><last>3.8</last><previous>4.5</previous></item>
+<item><country_name>Albania</country_name><related>Inflation Rate YoY</related><last>2.6</last><previous>3.4</previous></item>
+<item><country_name>Albania</country_name><related>Inflation Rate MoM</related><last>0.3</last><previous>0.5</previous></item>
+<item><country_name>Albania</country_name><related>Producer Prices</related><last>131.2</last><previous>130.5</previous></item>
+<item><country_name>Albania</country_name><related>PPI YoY</related><last>5.2</last><previous>6.88</previous></item>
+<item><country_name>Congo</country_name><related>Consumer Price Index CPI</related><last>256.14</last><previous>247.7</previous></item>
+<item><country_name>Congo</country_name><related>CPI Housing Utilities</related><last>213.62</last><previous>210.59</previous></item>
+<item><country_name>Congo</country_name><related>CPI Transportation</related><last>264.59</last><previous>252.13</previous></item>
+<item><country_name>Congo</country_name><related>Inflation Rate</related><last>45.8</last><previous>42.5</previous></item>
+<item><country_name>Congo</country_name><related>Inflation Rate MoM</related><last>3.4</last><previous>2.7</previous></item>
+<item><country_name>Cambodia</country_name><related>Consumer Price Index CPI</related><last>202.84</last><previous>203.62</previous></item>
+<item><country_name>Cambodia</country_name><related>Core Inflation Rate</related><last>2.4</last><previous>1.8</previous></item>
+<item><country_name>Cambodia</country_name><related>CPI Housing Utilities</related><last>141.6</last><previous>141.85</previous></item>
+<item><country_name>Cambodia</country_name><related>CPI Transportation</related><last>125.64</last><previous>124.8</previous></item>
+<item><country_name>Cambodia</country_name><related>Food Inflation</related><last>3.08</last><previous>3.55</previous></item>
+<item><country_name>Cambodia</country_name><related>Inflation Rate</related><last>2.7</last><previous>2.7</previous></item>
+<item><country_name>Cambodia</country_name><related>Inflation Rate MoM</related><last>-0.38</last><previous>-0.65</previous></item>
+<item><country_name>Bolivia</country_name><related>Consumer Price Index CPI</related><last>111.43</last><previous>111.21</previous></item>
+<item><country_name>Bolivia</country_name><related>CPI Housing Utilities</related><last>107.83</last><previous>107.72</previous></item>
+<item><country_name>Bolivia</country_name><related>CPI Transportation</related><last>112.78</last><previous>113.62</previous></item>
+<item><country_name>Bolivia</country_name><related>Export Prices</related><last>156.99</last><previous>159.44</previous></item>
+<item><country_name>Bolivia</country_name><related>Food Inflation</related><last>3.98</last><previous>2.17</previous></item>
+<item><country_name>Bolivia</country_name><related>Import Prices</related><last>165.77</last><previous>164.58</previous></item>
+<item><country_name>Bolivia</country_name><related>Inflation Rate</related><last>2.52</last><previous>1.86</previous></item>
+<item><country_name>Bolivia</country_name><related>Inflation Rate MoM</related><last>0.2</last><previous>0.08</previous></item>
+<item><country_name>Afghanistan</country_name><related>Consumer Price Index CPI</related><last>129.6</last><previous>130.7</previous></item>
+<item><country_name>Afghanistan</country_name><related>Core Inflation Rate</related><last>-3.6</last><previous>-3.5</previous></item>
+<item><country_name>Afghanistan</country_name><related>CPI Housing Utilities</related><last>102.1</last><previous>101.7</previous></item>
+<item><country_name>Afghanistan</country_name><related>CPI Transportation</related><last>133.6</last><previous>139.0</previous></item>
+<item><country_name>Afghanistan</country_name><related>Food Inflation</related><last>-15.1</last><previous>-14.5</previous></item>
+<item><country_name>Afghanistan</country_name><related>Inflation Rate</related><last>-9.1</last><previous>-8.0</previous></item>
+<item><country_name>Afghanistan</country_name><related>Inflation Rate MoM</related><last>-1.3</last><previous>0.2</previous></item>
+</items>
